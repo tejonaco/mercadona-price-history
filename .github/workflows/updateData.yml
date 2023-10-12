@@ -1,4 +1,4 @@
-name: Update feed
+name: Update data
 on:
   schedule:
     - cron: "0 12 * * 1" # los lunes a las 12
