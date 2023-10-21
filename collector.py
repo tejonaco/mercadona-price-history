@@ -2,17 +2,18 @@ import requests, time, json
 
 
 URL = 'https://tienda.mercadona.es/api/categories/'
+REPEAT_TRIES = 3
 
 # funcion recursiva que escaneara la api
 
-def fillProducts(url: str, content: list, products: list = [], root = 'categories', repeatIfDenied: int = 3):
+def fillProducts(url: str, content: list, products: list = [], root = 'categories', repeatTries: int = REPEAT_TRIES):
 	'''url: enlace donde se encuentra el siguiente json a analizar
 	content: lista referenciada fuera de la funcion a rellenar con los datos de ese json
 	products: lista de productos vista en el anterior json, si no se encuentran mas json seran los productos definitivos
 	root: raiz del json donde buscar una lista de categorias
 	repeatIfDenied: si el servidor se quejara de que se estan lanzando demasiadas llamadas se reintenta este numero de veces
 	'''
-    
+
 	r = requests.get(url)
 	if r.status_code == 200: # estamos viendo CATEGORIA GENERAL, CATEGORIA ESPECIFICA o TIPO DE PRODUCTO
 		for item in r.json()[root]:
@@ -30,14 +31,16 @@ def fillProducts(url: str, content: list, products: list = [], root = 'categorie
 				products = item.get('products', []),
 				)
 	elif r.status_code == 429: # Solicitud denegada por recibir demasiadas peticiones seguidas
-			time.sleep(60)
+			repeatTries -= 1
+			print(f'Solicitud denegada por recibir demasiadas peticiones seguidas, quedan {repeatTries} intentos')
+			time.sleep(60 * (REPEAT_TRIES - repeatTries)) # retardo proporcional a los reintentos
 			# se vuelve a intentar una vez mas
-			if repeatIfDenied:
+			if repeatTries:
 				fillProducts(
 						url = url,
 						content = content,
 						products = products,
-						repeatIfDenied = repeatIfDenied - 1
+						repeatIfDenied = repeatTries
 						)
 			else:
 				raise Exception('Solicitud denegada por recibir demasiadas peticiones seguidas')
@@ -57,16 +60,17 @@ def fillProducts(url: str, content: list, products: list = [], root = 'categorie
 				}
 			
 			content.append(product)
-			time.sleep(1) # retraso para no sobrecargar el servidor
+		time.sleep(1) # retraso para no sobrecargar el servidor
 
 
-# rellenar los datos
-products = []
-fillProducts(url=URL, content=products, root='results')
+if __name__ == '__main__':
+	# rellenar los datos
+	products = []
+	fillProducts(url=URL, content=products, root='results')
 
-# grabarlos en un json, que se irá guardando en la historia de git
-with open('data.json', 'w', encoding='utf-8') as f:
-    json.dump(products, f,
-              indent='\t' # + legible
-              , ensure_ascii=False # para que aparezcan las tildes
-			  )
+	# grabarlos en un json, que se irá guardando en la historia de git
+	with open('data.json', 'w', encoding='utf-8') as f:
+		json.dump(products, f,
+				indent='\t' # + legible
+				, ensure_ascii=False # para que aparezcan las tildes
+				)

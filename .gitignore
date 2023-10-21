@@ -1,3 +1,4 @@
 tests
 data
 .vscode
+__pycache__
