@@ -11,7 +11,7 @@ def fillProducts(url: str, content: list, products: list = [], root = 'categorie
 	content: lista referenciada fuera de la funcion a rellenar con los datos de ese json
 	products: lista de productos vista en el anterior json, si no se encuentran mas json seran los productos definitivos
 	root: raiz del json donde buscar una lista de categorias
-	repeatIfDenied: si el servidor se quejara de que se estan lanzando demasiadas llamadas se reintenta este numero de veces
+	repeatTries: si el servidor se quejara de que se estan lanzando demasiadas llamadas se reintenta este numero de veces
 	'''
 
 	r = requests.get(url)
@@ -40,7 +40,7 @@ def fillProducts(url: str, content: list, products: list = [], root = 'categorie
 						url = url,
 						content = content,
 						products = products,
-						repeatIfDenied = repeatTries
+						repeatTries = repeatTries
 						)
 			else:
 				raise Exception('Solicitud denegada por recibir demasiadas peticiones seguidas')
