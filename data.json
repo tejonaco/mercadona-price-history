@@ -883,8 +883,8 @@
 								"name": "Mayonesa Hellmann's",
 								"iva": 10,
 								"unit_size": 0.45,
-								"bulk_price": "6.56",
-								"unit_price": "2.95",
+								"bulk_price": "7.22",
+								"unit_price": "3.25",
 								"size_format": "l"
 							},
 							{
@@ -1360,8 +1360,8 @@
 								"name": "Guacamole Hacendado",
 								"iva": 10,
 								"unit_size": 0.5,
-								"bulk_price": "7.18",
-								"unit_price": "3.59",
+								"bulk_price": "7.58",
+								"unit_price": "3.79",
 								"size_format": "kg"
 							},
 							{
@@ -1369,8 +1369,8 @@
 								"name": "Guacamole Hacendado",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "8.75",
-								"unit_price": "1.75",
+								"bulk_price": "9.45",
+								"unit_price": "1.89",
 								"size_format": "kg"
 							},
 							{
@@ -1930,8 +1930,8 @@
 								"name": "Gaseosa La Casera grande",
 								"iva": 21,
 								"unit_size": 3.0,
-								"bulk_price": "0.79",
-								"unit_price": "2.36",
+								"bulk_price": "0.65",
+								"unit_price": "1.96",
 								"size_format": "l"
 							},
 							{
@@ -1939,8 +1939,8 @@
 								"name": "Gaseosa La Casera grande",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "0.80",
-								"unit_price": "1.20",
+								"bulk_price": "0.67",
+								"unit_price": "1.00",
 								"size_format": "l"
 							}
 						]
@@ -1960,8 +1960,8 @@
 								"name": "Bebida isotónica limón Aquarius",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "1.17",
-								"unit_price": "1.75",
+								"bulk_price": "1.33",
+								"unit_price": "1.99",
 								"size_format": "l"
 							},
 							{
@@ -2014,8 +2014,8 @@
 								"name": "Bebida isotónica naranja Aquarius",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "1.17",
-								"unit_price": "1.75",
+								"bulk_price": "1.33",
+								"unit_price": "1.99",
 								"size_format": "l"
 							},
 							{
@@ -2041,8 +2041,8 @@
 								"name": "Bebida isotónica limón Aquarius zero azúcar",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "1.17",
-								"unit_price": "1.75",
+								"bulk_price": "1.33",
+								"unit_price": "1.99",
 								"size_format": "l"
 							},
 							{
@@ -2128,8 +2128,8 @@
 								"name": "Bebida energética Energy Ultra zero Monster",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "3.34",
-								"unit_price": "6.68",
+								"bulk_price": "2.80",
+								"unit_price": "5.60",
 								"size_format": "l"
 							},
 							{
@@ -2137,8 +2137,8 @@
 								"name": "Bebida energética Energy Ultra zero Monster",
 								"iva": 21,
 								"unit_size": 0.5,
-								"bulk_price": "3.58",
-								"unit_price": "1.79",
+								"bulk_price": "2.90",
+								"unit_price": "1.45",
 								"size_format": "l"
 							},
 							{
@@ -2191,8 +2191,8 @@
 								"name": "Bebida energética Red Bull",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "4.60",
-								"unit_price": "4.60",
+								"bulk_price": "5.36",
+								"unit_price": "5.36",
 								"size_format": "l"
 							},
 							{
@@ -2236,8 +2236,8 @@
 								"name": "Bebida energética Mango Loco Monster",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "2.80",
-								"unit_price": "5.60",
+								"bulk_price": "3.34",
+								"unit_price": "6.68",
 								"size_format": "l"
 							},
 							{
@@ -2245,8 +2245,8 @@
 								"name": "Bebida energética Mango Loco Monster",
 								"iva": 21,
 								"unit_size": 0.5,
-								"bulk_price": "2.90",
-								"unit_price": "1.45",
+								"bulk_price": "3.58",
+								"unit_price": "1.79",
 								"size_format": "l"
 							},
 							{
@@ -2311,8 +2311,8 @@
 								"name": "Refresco Coca-Cola",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "0.93",
-								"unit_price": "3.70",
+								"bulk_price": "0.98",
+								"unit_price": "3.90",
 								"size_format": "l"
 							},
 							{
@@ -2329,8 +2329,8 @@
 								"name": "Refresco Coca-Cola",
 								"iva": 21,
 								"unit_size": 1.25,
-								"bulk_price": "1.19",
-								"unit_price": "1.49",
+								"bulk_price": "1.00",
+								"unit_price": "1.25",
 								"size_format": "l"
 							},
 							{
@@ -2356,8 +2356,8 @@
 								"name": "Refresco Coca-Cola",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "2.64",
-								"unit_price": "10.44",
+								"bulk_price": "2.45",
+								"unit_price": "9.72",
 								"size_format": "l"
 							},
 							{
@@ -2407,8 +2407,8 @@
 								"name": "Refresco Coca-Cola Zero azúcar",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "2.64",
-								"unit_price": "10.44",
+								"bulk_price": "2.45",
+								"unit_price": "9.72",
 								"size_format": "l"
 							},
 							{
@@ -2425,8 +2425,8 @@
 								"name": "Refresco Coca-Cola Zero azúcar",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "0.93",
-								"unit_price": "3.70",
+								"bulk_price": "0.98",
+								"unit_price": "3.90",
 								"size_format": "l"
 							},
 							{
@@ -2443,8 +2443,8 @@
 								"name": "Refresco Coca-Cola Zero azúcar",
 								"iva": 21,
 								"unit_size": 1.25,
-								"bulk_price": "1.19",
-								"unit_price": "1.49",
+								"bulk_price": "1.00",
+								"unit_price": "1.25",
 								"size_format": "l"
 							},
 							{
@@ -2470,8 +2470,8 @@
 								"name": "Refresco Coca-Cola light",
 								"iva": 21,
 								"unit_size": 2.97,
-								"bulk_price": "2.64",
-								"unit_price": "7.83",
+								"bulk_price": "2.45",
+								"unit_price": "7.29",
 								"size_format": "l"
 							},
 							{
@@ -2488,8 +2488,8 @@
 								"name": "Refresco Coca-Cola Zero Zero",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "2.64",
-								"unit_price": "10.44",
+								"bulk_price": "2.45",
+								"unit_price": "9.72",
 								"size_format": "l"
 							},
 							{
@@ -2506,8 +2506,8 @@
 								"name": "Refresco Coca-Cola Zero Zero",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "0.93",
-								"unit_price": "3.70",
+								"bulk_price": "0.98",
+								"unit_price": "3.90",
 								"size_format": "l"
 							},
 							{
@@ -2584,8 +2584,8 @@
 								"name": "Refresco Coca-Cola Zero Zero",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "2.64",
-								"unit_price": "10.44",
+								"bulk_price": "2.45",
+								"unit_price": "9.72",
 								"size_format": "l"
 							},
 							{
@@ -2602,8 +2602,8 @@
 								"name": "Refresco Coca-Cola Zero Zero",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "0.93",
-								"unit_price": "3.70",
+								"bulk_price": "0.98",
+								"unit_price": "3.90",
 								"size_format": "l"
 							},
 							{
@@ -2659,8 +2659,8 @@
 								"name": "Refresco Fanta limón",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "0.78",
-								"unit_price": "1.55",
+								"bulk_price": "0.90",
+								"unit_price": "1.79",
 								"size_format": "l"
 							},
 							{
@@ -2749,8 +2749,8 @@
 								"name": "Refresco limón Schweppes original",
 								"iva": 21,
 								"unit_size": 2.64,
-								"bulk_price": "2.85",
-								"unit_price": "7.52",
+								"bulk_price": "1.94",
+								"unit_price": "5.12",
 								"size_format": "l"
 							},
 							{
@@ -2773,8 +2773,8 @@
 								"name": "Refresco lima limón Sprite",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "0.80",
-								"unit_price": "1.59",
+								"bulk_price": "0.63",
+								"unit_price": "1.25",
 								"size_format": "l"
 							},
 							{
@@ -2782,8 +2782,8 @@
 								"name": "Refresco lima limón Sprite",
 								"iva": 21,
 								"unit_size": 2.64,
-								"bulk_price": "1.42",
-								"unit_price": "3.76",
+								"bulk_price": "1.73",
+								"unit_price": "4.56",
 								"size_format": "l"
 							},
 							{
@@ -2791,8 +2791,8 @@
 								"name": "Refresco lima limón Sprite",
 								"iva": 21,
 								"unit_size": 0.33,
-								"bulk_price": "1.48",
-								"unit_price": "0.49",
+								"bulk_price": "1.79",
+								"unit_price": "0.59",
 								"size_format": "l"
 							},
 							{
@@ -2842,8 +2842,8 @@
 								"name": "Refresco Fanta naranja",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "0.75",
-								"unit_price": "3.00",
+								"bulk_price": "0.88",
+								"unit_price": "3.50",
 								"size_format": "l"
 							},
 							{
@@ -2878,8 +2878,8 @@
 								"name": "Refresco Fanta naranja zero azúcares añadidos",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "0.78",
-								"unit_price": "1.55",
+								"bulk_price": "0.90",
+								"unit_price": "1.79",
 								"size_format": "l"
 							},
 							{
@@ -2962,8 +2962,8 @@
 								"name": "Tónica original Schweppes",
 								"iva": 21,
 								"unit_size": 2.64,
-								"bulk_price": "2.85",
-								"unit_price": "7.52",
+								"bulk_price": "1.94",
+								"unit_price": "5.12",
 								"size_format": "l"
 							},
 							{
@@ -2980,8 +2980,8 @@
 								"name": "Tónica original Schweppes",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "1.70",
-								"unit_price": "1.70",
+								"bulk_price": "1.90",
+								"unit_price": "1.90",
 								"size_format": "l"
 							},
 							{
@@ -3025,8 +3025,8 @@
 								"name": "Tónica zero calorías Schweppes",
 								"iva": 21,
 								"unit_size": 2.64,
-								"bulk_price": "2.85",
-								"unit_price": "7.52",
+								"bulk_price": "1.94",
+								"unit_price": "5.12",
 								"size_format": "l"
 							},
 							{
@@ -3043,8 +3043,8 @@
 								"name": "Tónica Nordic Mist",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "1.80",
-								"unit_price": "3.60",
+								"bulk_price": "2.20",
+								"unit_price": "4.40",
 								"size_format": "l"
 							},
 							{
@@ -3052,8 +3052,8 @@
 								"name": "Tónica Nordic Mist",
 								"iva": 21,
 								"unit_size": 0.25,
-								"bulk_price": "2.20",
-								"unit_price": "0.55",
+								"bulk_price": "2.60",
+								"unit_price": "0.65",
 								"size_format": "l"
 							},
 							{
@@ -3061,8 +3061,8 @@
 								"name": "Tónica pink zero Schweppes",
 								"iva": 21,
 								"unit_size": 2.64,
-								"bulk_price": "2.85",
-								"unit_price": "7.52",
+								"bulk_price": "1.94",
+								"unit_price": "5.12",
 								"size_format": "l"
 							},
 							{
@@ -3232,8 +3232,8 @@
 								"name": "Refresco de naranja Simon Life sin gas",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "1.07",
-								"unit_price": "1.60",
+								"bulk_price": "1.23",
+								"unit_price": "1.85",
 								"size_format": "l"
 							},
 							{
@@ -5770,8 +5770,8 @@
 								"name": "Pasta oriental sabor pollo Maggi",
 								"iva": 10,
 								"unit_size": 0.071,
-								"bulk_price": "12.68",
-								"unit_price": "0.90",
+								"bulk_price": "10.56",
+								"unit_price": "0.75",
 								"size_format": "kg"
 							},
 							{
@@ -6355,8 +6355,8 @@
 								"name": "Chocolate puro Valor",
 								"iva": 10,
 								"unit_size": 0.3,
-								"bulk_price": "12.67",
-								"unit_price": "3.80",
+								"bulk_price": "11.17",
+								"unit_price": "3.35",
 								"size_format": "kg"
 							},
 							{
@@ -6445,8 +6445,8 @@
 								"name": "Chocolate negro 70% cacao fundir Hacendado 0% azúcares añadidos",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "11.25",
-								"unit_price": "2.25",
+								"bulk_price": "12.00",
+								"unit_price": "2.40",
 								"size_format": "kg"
 							},
 							{
@@ -6505,8 +6505,8 @@
 								"name": "Chocolate con leche Oreo Milka",
 								"iva": 10,
 								"unit_size": 0.1,
-								"bulk_price": "13.00",
-								"unit_price": "1.30",
+								"bulk_price": "15.50",
+								"unit_price": "1.55",
 								"size_format": "kg"
 							},
 							{
@@ -6514,8 +6514,8 @@
 								"name": "Chocolate con leche Milka",
 								"iva": 10,
 								"unit_size": 0.15,
-								"bulk_price": "8.67",
-								"unit_price": "1.30",
+								"bulk_price": "10.33",
+								"unit_price": "1.55",
 								"size_format": "kg"
 							},
 							{
@@ -6559,8 +6559,8 @@
 								"name": "Chocolate con leche caramelo Milka",
 								"iva": 10,
 								"unit_size": 0.1,
-								"bulk_price": "13.00",
-								"unit_price": "1.30",
+								"bulk_price": "15.50",
+								"unit_price": "1.55",
 								"size_format": "kg"
 							},
 							{
@@ -6697,8 +6697,8 @@
 								"name": "Barritas de barquillo Huesitos bañadas de chocolate con leche",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "10.75",
-								"unit_price": "2.15",
+								"bulk_price": "12.25",
+								"unit_price": "2.45",
 								"size_format": "kg"
 							},
 							{
@@ -6783,15 +6783,6 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "12457",
-								"name": "Monedas de chocolate con leche",
-								"iva": 10,
-								"unit_size": 0.07,
-								"bulk_price": "15.71",
-								"unit_price": "1.10",
-								"size_format": "kg"
-							},
-							{
 								"id": "12364",
 								"name": "Huevos de chocolate Hacendado dibujo",
 								"iva": 10,
@@ -6864,30 +6855,12 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "52824",
-								"name": "Surtido de chocolate con leche Pascua Hacendado",
-								"iva": 10,
-								"unit_size": 0.2,
-								"bulk_price": "13.00",
-								"unit_price": "2.60",
-								"size_format": "kg"
-							},
-							{
-								"id": "12413",
-								"name": "Huevos de chocolate con disquitos de colores Pascua Hacendado",
-								"iva": 10,
-								"unit_size": 0.15,
-								"bulk_price": "17.33",
-								"unit_price": "2.60",
-								"size_format": "kg"
-							},
-							{
 								"id": "12417",
 								"name": "Huevo de chocolate con leche Pokemon Pascua Hacendado con sorpresa",
 								"iva": 10,
 								"unit_size": 0.12,
-								"bulk_price": "30.00",
-								"unit_price": "3.60",
+								"bulk_price": "27.50",
+								"unit_price": "3.30",
 								"size_format": "kg"
 							},
 							{
@@ -6895,40 +6868,13 @@
 								"name": "Huevo de chocolate con leche Paw Patrol Pascua Hacendado con sorpresa",
 								"iva": 10,
 								"unit_size": 0.12,
-								"bulk_price": "30.00",
-								"unit_price": "3.60",
-								"size_format": "kg"
-							},
-							{
-								"id": "60531",
-								"name": "Huevos de chocolate con leche Minis relleno cremoso y cereales Pascua Hacendado",
-								"iva": 10,
-								"unit_size": 0.15,
-								"bulk_price": "12.67",
-								"unit_price": "1.90",
-								"size_format": "kg"
-							},
-							{
-								"id": "60535",
-								"name": "Huevo de chocolate con leche chispeante Pascua Kokoa",
-								"iva": 10,
-								"unit_size": 0.04,
-								"bulk_price": "30.00",
-								"unit_price": "1.20",
+								"bulk_price": "27.50",
+								"unit_price": "3.30",
 								"size_format": "kg"
 							},
 							{
 								"id": "52826",
 								"name": "Figura chocolate blanco conejo Pascua Hacendado",
-								"iva": 10,
-								"unit_size": 0.06,
-								"bulk_price": "19.17",
-								"unit_price": "1.15",
-								"size_format": "kg"
-							},
-							{
-								"id": "52825",
-								"name": "Figura de chocolate con leche conejo Pascua Hacendado",
 								"iva": 10,
 								"unit_size": 0.06,
 								"bulk_price": "16.67",
@@ -7333,17 +7279,8 @@
 								"name": "Golosinas Mix Pascua Hacendado",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "8.00",
-								"unit_price": "1.60",
-								"size_format": "kg"
-							},
-							{
-								"id": "60539",
-								"name": "Caramelos rellenos Pascua Soft Eggies Trolli",
-								"iva": 10,
-								"unit_size": 0.075,
-								"bulk_price": "24.67",
-								"unit_price": "1.85",
+								"bulk_price": "7.00",
+								"unit_price": "1.40",
 								"size_format": "kg"
 							},
 							{
@@ -7533,15 +7470,6 @@
 								"unit_size": 0.5,
 								"bulk_price": "7.70",
 								"unit_price": "3.85",
-								"size_format": "kg"
-							},
-							{
-								"id": "15451",
-								"name": "Miel de eucalipto Hacendado",
-								"iva": 10,
-								"unit_size": 0.5,
-								"bulk_price": "8.40",
-								"unit_price": "4.20",
 								"size_format": "kg"
 							},
 							{
@@ -7773,15 +7701,6 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "80490",
-								"name": "Papilla piña y coco +8 meses Hacendado",
-								"iva": 10,
-								"unit_size": 0.12,
-								"bulk_price": "7.50",
-								"unit_price": "0.90",
-								"size_format": "kg"
-							},
-							{
 								"id": "35961",
 								"name": "Papilla tres frutas con yogur +8 meses Hacendado",
 								"iva": 10,
@@ -7819,8 +7738,8 @@
 								"name": "Postre lácteo infantil de fresa Yogolino +8 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "7.38",
+								"unit_price": "2.95",
 								"size_format": "kg"
 							},
 							{
@@ -7837,8 +7756,8 @@
 								"name": "Postre lácteo infantil de plátano Yogolino +6 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "7.38",
+								"unit_price": "2.95",
 								"size_format": "kg"
 							},
 							{
@@ -7846,8 +7765,8 @@
 								"name": "Postre lácteo infantil de natillas Yogolino +6 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "8.38",
+								"unit_price": "3.35",
 								"size_format": "kg"
 							},
 							{
@@ -8101,8 +8020,8 @@
 								"name": "Biberón 150 ml tetina silicona flujo lento +0 meses Deliplus",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "3.00",
-								"unit_price": "3.00",
+								"bulk_price": "3.30",
+								"unit_price": "3.30",
 								"size_format": "ud"
 							},
 							{
@@ -8110,8 +8029,8 @@
 								"name": "Biberón 360 ml tetina silicona tres posiciones +1 mes Deliplus",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "3.50",
-								"unit_price": "3.50",
+								"bulk_price": "3.80",
+								"unit_price": "3.80",
 								"size_format": "ud"
 							},
 							{
@@ -8161,8 +8080,8 @@
 								"name": "Chupete silicona reversible +0 a 6 meses Deliplus",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "1.95",
-								"unit_price": "1.95",
+								"bulk_price": "2.10",
+								"unit_price": "2.10",
 								"size_format": "ud"
 							},
 							{
@@ -8170,8 +8089,8 @@
 								"name": "Chupete silicona reversible +6 a 18 meses Deliplus luminiscente",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "1.95",
-								"unit_price": "1.95",
+								"bulk_price": "2.10",
+								"unit_price": "2.10",
 								"size_format": "ud"
 							},
 							{
@@ -8179,8 +8098,8 @@
 								"name": "Chupete silicona reversible +18 meses Deliplus",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "1.95",
-								"unit_price": "1.95",
+								"bulk_price": "2.10",
+								"unit_price": "2.10",
 								"size_format": "ud"
 							}
 						]
@@ -8200,8 +8119,8 @@
 								"name": "Gel corporal infantil Deliplus",
 								"iva": 21,
 								"unit_size": 0.6,
-								"bulk_price": "3.42",
-								"unit_price": "2.05",
+								"bulk_price": "3.83",
+								"unit_price": "2.30",
 								"size_format": "l"
 							},
 							{
@@ -8716,8 +8635,8 @@
 								"name": "Cerveza Amstel",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "1.55",
-								"unit_price": "6.12",
+								"bulk_price": "2.15",
+								"unit_price": "8.52",
 								"size_format": "l"
 							},
 							{
@@ -8752,8 +8671,8 @@
 								"name": "Cerveza clásica Mahou",
 								"iva": 21,
 								"unit_size": 3.96,
-								"bulk_price": "1.76",
-								"unit_price": "6.96",
+								"bulk_price": "2.18",
+								"unit_price": "8.64",
 								"size_format": "l"
 							},
 							{
@@ -8878,8 +8797,8 @@
 								"name": "Cerveza tostada Turia",
 								"iva": 21,
 								"unit_size": 1.98,
-								"bulk_price": "2.45",
-								"unit_price": "4.86",
+								"bulk_price": "2.09",
+								"unit_price": "4.14",
 								"size_format": "l"
 							},
 							{
@@ -8938,8 +8857,8 @@
 								"name": "Cerveza Amstel",
 								"iva": 21,
 								"unit_size": 6.0,
-								"bulk_price": "1.35",
-								"unit_price": "8.10",
+								"bulk_price": "1.65",
+								"unit_price": "9.90",
 								"size_format": "l"
 							},
 							{
@@ -9064,8 +8983,8 @@
 								"name": "Cerveza tostada Turia",
 								"iva": 21,
 								"unit_size": 3.0,
-								"bulk_price": "2.12",
-								"unit_price": "6.36",
+								"bulk_price": "2.48",
+								"unit_price": "7.44",
 								"size_format": "l"
 							},
 							{
@@ -9082,8 +9001,8 @@
 								"name": "Cerveza El Águila sin filtrar",
 								"iva": 21,
 								"unit_size": 1.98,
-								"bulk_price": "3.00",
-								"unit_price": "5.94",
+								"bulk_price": "2.70",
+								"unit_price": "5.34",
 								"size_format": "l"
 							},
 							{
@@ -9136,8 +9055,8 @@
 								"name": "Cerveza especial Estrella Galicia",
 								"iva": 21,
 								"unit_size": 3.0,
-								"bulk_price": "2.60",
-								"unit_price": "7.80",
+								"bulk_price": "2.32",
+								"unit_price": "6.96",
 								"size_format": "l"
 							},
 							{
@@ -9154,8 +9073,8 @@
 								"name": "Cerveza extra 1906 reserva especial",
 								"iva": 21,
 								"unit_size": 1.98,
-								"bulk_price": "3.67",
-								"unit_price": "7.26",
+								"bulk_price": "3.70",
+								"unit_price": "7.32",
 								"size_format": "l"
 							},
 							{
@@ -9673,8 +9592,8 @@
 								"name": "Ginebra London Dry Gin Tanqueray",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "21.71",
-								"unit_price": "15.20",
+								"bulk_price": "22.79",
+								"unit_price": "15.95",
 								"size_format": "l"
 							},
 							{
@@ -9724,8 +9643,8 @@
 								"name": "Bebida espirituosa centenario Terry",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "8.90",
-								"unit_price": "8.90",
+								"bulk_price": "9.35",
+								"unit_price": "9.35",
 								"size_format": "l"
 							},
 							{
@@ -9784,8 +9703,8 @@
 								"name": "Whisky escocés Red Label Johnnie Walker",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "20.71",
-								"unit_price": "14.50",
+								"bulk_price": "22.14",
+								"unit_price": "15.50",
 								"size_format": "l"
 							},
 							{
@@ -9793,8 +9712,8 @@
 								"name": "Whisky escocés J&B",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "17.07",
-								"unit_price": "11.95",
+								"bulk_price": "18.50",
+								"unit_price": "12.95",
 								"size_format": "l"
 							},
 							{
@@ -9811,8 +9730,8 @@
 								"name": "Whisky escocés Black Label Johnnie Walker",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "38.50",
-								"unit_price": "26.95",
+								"bulk_price": "41.36",
+								"unit_price": "28.95",
 								"size_format": "l"
 							},
 							{
@@ -10006,8 +9925,8 @@
 								"name": "Licor de anís Ricard Pastis de Marseille",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "16.43",
-								"unit_price": "11.50",
+								"bulk_price": "18.14",
+								"unit_price": "12.70",
 								"size_format": "l"
 							},
 							{
@@ -10066,17 +9985,8 @@
 								"name": "Licor dulce Amaretto Del Patriarca",
 								"iva": 21,
 								"unit_size": 0.7,
-								"bulk_price": "6.86",
-								"unit_price": "4.80",
-								"size_format": "l"
-							},
-							{
-								"id": "13370",
-								"name": "Ponche Convidado de Baco",
-								"iva": 21,
-								"unit_size": 0.7,
-								"bulk_price": "9.00",
-								"unit_price": "6.30",
+								"bulk_price": "7.00",
+								"unit_price": "4.90",
 								"size_format": "l"
 							},
 							{
@@ -10342,8 +10252,8 @@
 								"name": "Tinto de verano sabor limón La Casera",
 								"iva": 21,
 								"unit_size": 3.0,
-								"bulk_price": "1.30",
-								"unit_price": "3.90",
+								"bulk_price": "1.50",
+								"unit_price": "4.50",
 								"size_format": "l"
 							},
 							{
@@ -10416,15 +10326,6 @@
 								"unit_size": 0.75,
 								"bulk_price": "1.87",
 								"unit_price": "1.40",
-								"size_format": "l"
-							},
-							{
-								"id": "66672",
-								"name": "Vino blanco tierra de Cádiz Barbadillo cosecha",
-								"iva": 21,
-								"unit_size": 0.75,
-								"bulk_price": "5.80",
-								"unit_price": "4.35",
 								"size_format": "l"
 							},
 							{
@@ -10552,8 +10453,8 @@
 								"name": "Vino blanco semidulce Diamante D.O Rioja",
 								"iva": 21,
 								"unit_size": 0.75,
-								"bulk_price": "5.73",
-								"unit_price": "4.30",
+								"bulk_price": "5.27",
+								"unit_price": "3.95",
 								"size_format": "l"
 							},
 							{
@@ -10612,8 +10513,8 @@
 								"name": "Vino fino Corredera D.O Montilla-Moriles",
 								"iva": 21,
 								"unit_size": 0.75,
-								"bulk_price": "3.53",
-								"unit_price": "2.65",
+								"bulk_price": "3.80",
+								"unit_price": "2.85",
 								"size_format": "l"
 							},
 							{
@@ -10792,8 +10693,8 @@
 								"name": "Vino tinto Dominio de Borgia",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "1.40",
-								"unit_price": "2.80",
+								"bulk_price": "1.35",
+								"unit_price": "2.70",
 								"size_format": "l"
 							},
 							{
@@ -10921,8 +10822,8 @@
 								"name": "Vino tinto D.O Valdepeñas Señorío de los Llanos crianza",
 								"iva": 21,
 								"unit_size": 0.75,
-								"bulk_price": "2.67",
-								"unit_price": "2.00",
+								"bulk_price": "3.00",
+								"unit_price": "2.25",
 								"size_format": "l"
 							},
 							{
@@ -11088,15 +10989,6 @@
 								"unit_size": 0.75,
 								"bulk_price": "2.20",
 								"unit_price": "1.65",
-								"size_format": "l"
-							},
-							{
-								"id": "86525",
-								"name": "Vino tinto viticultura superior Montes Serenos",
-								"iva": 21,
-								"unit_size": 0.75,
-								"bulk_price": "10.67",
-								"unit_price": "8.00",
 								"size_format": "l"
 							},
 							{
@@ -11764,8 +11656,8 @@
 								"name": "Café molido natural Cafés Valiente",
 								"iva": 10,
 								"unit_size": 0.25,
-								"bulk_price": "14.60",
-								"unit_price": "3.65",
+								"bulk_price": "15.00",
+								"unit_price": "3.75",
 								"size_format": "kg"
 							},
 							{
@@ -11809,8 +11701,8 @@
 								"name": "Café molido mezcla Marcilla crème express",
 								"iva": 10,
 								"unit_size": 0.25,
-								"bulk_price": "16.00",
-								"unit_price": "4.00",
+								"bulk_price": "14.40",
+								"unit_price": "3.60",
 								"size_format": "kg"
 							},
 							{
@@ -12213,7 +12105,7 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "13395",
+								"id": "60671",
 								"name": "Infusión Menta Poleo Hacendado",
 								"iva": 10,
 								"unit_size": 0.03,
@@ -13129,6 +13021,15 @@
 								"bulk_price": "2.50",
 								"unit_price": "1.60",
 								"size_format": "kg"
+							},
+							{
+								"id": "8252",
+								"name": "Pincho Mexicano de pollo con varilla",
+								"iva": 10,
+								"unit_size": 0.4,
+								"bulk_price": "10.60",
+								"unit_price": "4.24",
+								"size_format": "kg"
 							}
 						]
 					}
@@ -13497,6 +13398,15 @@
 								"size_format": "kg"
 							},
 							{
+								"id": "2840",
+								"name": "Pinchos de cerdo con varilla",
+								"iva": 10,
+								"unit_size": 0.35,
+								"bulk_price": "11.00",
+								"unit_price": "3.85",
+								"size_format": "kg"
+							},
+							{
 								"id": "3553",
 								"name": "Lomo de cerdo grueso",
 								"iva": 10,
@@ -13611,15 +13521,6 @@
 								"unit_size": 0.46,
 								"bulk_price": "7.58",
 								"unit_price": "3.49",
-								"size_format": "kg"
-							},
-							{
-								"id": "21272",
-								"name": "Libritos de cerdo rellenos de pimiento verde y jamón curado empanados sin gluten",
-								"iva": 10,
-								"unit_size": 0.38,
-								"bulk_price": "10.10",
-								"unit_price": "3.84",
 								"size_format": "kg"
 							},
 							{
@@ -14383,8 +14284,8 @@
 								"name": "Croquetas de cocido Hacendado ultracongeladas",
 								"iva": 10,
 								"unit_size": 0.35,
-								"bulk_price": "5.43",
-								"unit_price": "1.90",
+								"bulk_price": "6.00",
+								"unit_price": "2.10",
 								"size_format": "kg"
 							},
 							{
@@ -14583,6 +14484,15 @@
 								"size_format": "kg"
 							},
 							{
+								"id": "2840",
+								"name": "Pinchos de cerdo con varilla",
+								"iva": 10,
+								"unit_size": 0.35,
+								"bulk_price": "11.00",
+								"unit_price": "3.85",
+								"size_format": "kg"
+							},
+							{
 								"id": "2970",
 								"name": "Contramuslos de pollo marinados con piel",
 								"iva": 10,
@@ -14643,15 +14553,6 @@
 								"unit_size": 0.465,
 								"bulk_price": "8.95",
 								"unit_price": "4.16",
-								"size_format": "kg"
-							},
-							{
-								"id": "21272",
-								"name": "Libritos de cerdo rellenos de pimiento verde y jamón curado empanados sin gluten",
-								"iva": 10,
-								"unit_size": 0.38,
-								"bulk_price": "10.10",
-								"unit_price": "3.84",
 								"size_format": "kg"
 							},
 							{
@@ -14800,8 +14701,8 @@
 								"name": "Cereales copos de trigo integral y arroz Special K Classic",
 								"iva": 10,
 								"unit_size": 0.45,
-								"bulk_price": "7.22",
-								"unit_price": "3.25",
+								"bulk_price": "5.56",
+								"unit_price": "2.50",
 								"size_format": "kg"
 							},
 							{
@@ -14836,8 +14737,8 @@
 								"name": "Cereales integrales copos de trigo Chocapic Nestlé con chocolate",
 								"iva": 10,
 								"unit_size": 0.625,
-								"bulk_price": "5.36",
-								"unit_price": "3.35",
+								"bulk_price": "6.32",
+								"unit_price": "3.95",
 								"size_format": "kg"
 							},
 							{
@@ -15058,8 +14959,8 @@
 								"name": "Barritas con proteínas Enervit Sport sabor coco y chocolate",
 								"iva": 10,
 								"unit_size": 0.12,
-								"bulk_price": "26.25",
-								"unit_price": "3.15",
+								"bulk_price": "27.92",
+								"unit_price": "3.35",
 								"size_format": "kg"
 							},
 							{
@@ -15067,8 +14968,8 @@
 								"name": "Barrita con proteínas Enervit Sport sabor chocolate negro",
 								"iva": 10,
 								"unit_size": 0.18,
-								"bulk_price": "27.22",
-								"unit_price": "4.90",
+								"bulk_price": "28.61",
+								"unit_price": "5.15",
 								"size_format": "kg"
 							},
 							{
@@ -16273,6 +16174,15 @@
 								"bulk_price": "13.27",
 								"unit_price": "2.65",
 								"size_format": "kg"
+							},
+							{
+								"id": "29606",
+								"name": "Panceta curada sin corteza La Selva lonchas",
+								"iva": 10,
+								"unit_size": 0.2,
+								"bulk_price": "11.25",
+								"unit_price": "2.25",
+								"size_format": "kg"
 							}
 						]
 					},
@@ -17163,6 +17073,15 @@
 								"size_format": "kg"
 							},
 							{
+								"id": "58711",
+								"name": "Taco jamón curado",
+								"iva": 10,
+								"unit_size": 0.22,
+								"bulk_price": "17.00",
+								"unit_price": "3.74",
+								"size_format": "kg"
+							},
+							{
 								"id": "58307",
 								"name": "Hueso garrón Incarlopsa",
 								"iva": 10,
@@ -17305,8 +17224,8 @@
 								"name": "Paté de cerdo La Piara tapa negra",
 								"iva": 10,
 								"unit_size": 0.261,
-								"bulk_price": "12.45",
-								"unit_price": "3.25",
+								"bulk_price": "15.13",
+								"unit_price": "3.95",
 								"size_format": "kg"
 							},
 							{
@@ -17451,15 +17370,6 @@
 								"unit_size": 0.13,
 								"bulk_price": "11.92",
 								"unit_price": "1.55",
-								"size_format": "kg"
-							},
-							{
-								"id": "52166",
-								"name": "Foie gras entero de pato mi cuit Martiko",
-								"iva": 10,
-								"unit_size": 0.2,
-								"bulk_price": "73.25",
-								"unit_price": "14.65",
 								"size_format": "kg"
 							},
 							{
@@ -17829,15 +17739,6 @@
 								"unit_size": 0.2,
 								"bulk_price": "17.50",
 								"unit_price": "3.50",
-								"size_format": "kg"
-							},
-							{
-								"id": "5837",
-								"name": "Queso añejo fuerte de oveja Hacendado",
-								"iva": 0,
-								"unit_size": 1.4,
-								"bulk_price": "13.75",
-								"unit_price": "19.25",
 								"size_format": "kg"
 							}
 						]
@@ -18406,8 +18307,8 @@
 								"name": "Queso untar original Philadelphia",
 								"iva": 0,
 								"unit_size": 0.27,
-								"bulk_price": "10.15",
-								"unit_price": "2.74",
+								"bulk_price": "8.52",
+								"unit_price": "2.30",
 								"size_format": "kg"
 							},
 							{
@@ -18415,8 +18316,8 @@
 								"name": "Queso untar light Philadelphia",
 								"iva": 0,
 								"unit_size": 0.27,
-								"bulk_price": "10.15",
-								"unit_price": "2.74",
+								"bulk_price": "8.52",
+								"unit_price": "2.30",
 								"size_format": "kg"
 							},
 							{
@@ -18556,8 +18457,8 @@
 								"name": "Queso fresco de vaca Burgo de Arias",
 								"iva": 0,
 								"unit_size": 0.216,
-								"bulk_price": "13.84",
-								"unit_price": "2.99",
+								"bulk_price": "9.21",
+								"unit_price": "1.99",
 								"size_format": "kg"
 							},
 							{
@@ -18646,8 +18547,8 @@
 								"name": "Queso fresco 0% m.g de vaca Burgo de Arias",
 								"iva": 0,
 								"unit_size": 0.216,
-								"bulk_price": "13.84",
-								"unit_price": "2.99",
+								"bulk_price": "9.21",
+								"unit_price": "1.99",
 								"size_format": "kg"
 							},
 							{
@@ -19465,6 +19366,15 @@
 								"bulk_price": "0.60",
 								"unit_price": "1.20",
 								"size_format": "kg"
+							},
+							{
+								"id": "86566",
+								"name": "Bolsas  desechables para cubitos de hielo Bosque Verde",
+								"iva": 21,
+								"unit_size": 20.0,
+								"bulk_price": "0.09",
+								"unit_price": "1.80",
+								"size_format": "ud"
 							}
 						]
 					}
@@ -19483,8 +19393,8 @@
 								"name": "Preparado de paella y sopa Hacendado ultracongelado",
 								"iva": 10,
 								"unit_size": null,
-								"bulk_price": "5.77",
-								"unit_price": "3.95",
+								"bulk_price": "5.99",
+								"unit_price": "4.10",
 								"size_format": "kg"
 							},
 							{
@@ -19665,15 +19575,6 @@
 								"unit_size": 0.5,
 								"bulk_price": "21.30",
 								"unit_price": "10.65",
-								"size_format": "kg"
-							},
-							{
-								"id": "62386",
-								"name": "Bogavante americano mediano crudo Hacendado congelado",
-								"iva": 10,
-								"unit_size": null,
-								"bulk_price": "33.00",
-								"unit_price": "14.85",
 								"size_format": "kg"
 							},
 							{
@@ -20349,6 +20250,15 @@
 								"bulk_price": "9.86",
 								"unit_price": "13.80",
 								"size_format": "kg"
+							},
+							{
+								"id": "6082",
+								"name": "Tarta infantil DC Comics Hacendado congelada",
+								"iva": 10,
+								"unit_size": 1.4,
+								"bulk_price": "9.86",
+								"unit_price": "13.80",
+								"size_format": "kg"
 							}
 						]
 					},
@@ -20885,17 +20795,17 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "35351",
-								"name": "Patatas prefritas con piel Lambweston ultracongeladas",
+								"id": "52520",
+								"name": "Patatas prefritas Waffle fries Lambweston ultracongeladas",
 								"iva": 10,
-								"unit_size": 0.75,
-								"bulk_price": "2.53",
-								"unit_price": "1.90",
+								"unit_size": 0.6,
+								"bulk_price": "4.00",
+								"unit_price": "2.40",
 								"size_format": "kg"
 							},
 							{
-								"id": "52520",
-								"name": "Patatas prefritas Waffle fries Lambweston ultracongeladas",
+								"id": "60546",
+								"name": "Patatas prefritas Twister fries Lambweston ultracongeladas",
 								"iva": 10,
 								"unit_size": 0.6,
 								"bulk_price": "4.00",
@@ -21347,15 +21257,6 @@
 								"unit_size": 0.111,
 								"bulk_price": "16.22",
 								"unit_price": "1.80",
-								"size_format": "kg"
-							},
-							{
-								"id": "18602",
-								"name": "Mejillones en escabeche Hacendado medianos",
-								"iva": 10,
-								"unit_size": 0.111,
-								"bulk_price": "21.62",
-								"unit_price": "2.40",
 								"size_format": "kg"
 							},
 							{
@@ -22029,8 +21930,8 @@
 								"name": "Puré de patatas Hacendado en copos",
 								"iva": 10,
 								"unit_size": 0.5,
-								"bulk_price": "3.80",
-								"unit_price": "1.90",
+								"bulk_price": "4.00",
+								"unit_price": "2.00",
 								"size_format": "kg"
 							},
 							{
@@ -22155,8 +22056,8 @@
 								"name": "Caldo de pollo casero Gallina Blanca",
 								"iva": 10,
 								"unit_size": 1.0,
-								"bulk_price": "1.85",
-								"unit_price": "1.85",
+								"bulk_price": "2.20",
+								"unit_price": "2.20",
 								"size_format": "l"
 							},
 							{
@@ -22173,8 +22074,8 @@
 								"name": "Caldo de cocido casero Gallina Blanca",
 								"iva": 10,
 								"unit_size": 1.0,
-								"bulk_price": "1.85",
-								"unit_price": "1.85",
+								"bulk_price": "2.20",
+								"unit_price": "2.20",
 								"size_format": "l"
 							},
 							{
@@ -22922,15 +22823,6 @@
 								"size_format": "l"
 							},
 							{
-								"id": "35616",
-								"name": "Champú Suave & Liso Pantene cabello encrespado o seco",
-								"iva": 21,
-								"unit_size": 0.3,
-								"bulk_price": "11.83",
-								"unit_price": "3.55",
-								"size_format": "l"
-							},
-							{
 								"id": "44290",
 								"name": "Champú Silver Deliplus cabello blanco y platino",
 								"iva": 21,
@@ -22962,8 +22854,8 @@
 								"name": "Champú Dermo Sensitive Deliplus cuero cabelludo sensible",
 								"iva": 21,
 								"unit_size": 0.4,
-								"bulk_price": "6.50",
-								"unit_price": "2.60",
+								"bulk_price": "5.88",
+								"unit_price": "2.35",
 								"size_format": "l"
 							},
 							{
@@ -24000,7 +23892,7 @@
 							},
 							{
 								"id": "73272",
-								"name": "Coloración permanente 9.0 rubio muy claro lumonoso Deliplus 0% amoníaco",
+								"name": "Coloración permanente 9.0 rubio muy claro luminoso Deliplus 0% amoníaco",
 								"iva": 21,
 								"unit_size": 1.0,
 								"bulk_price": "3.90",
@@ -24192,8 +24084,8 @@
 								"name": "Espuma cabello Rizos Definidos Pantene fijación 5",
 								"iva": 21,
 								"unit_size": 0.25,
-								"bulk_price": "15.40",
-								"unit_price": "3.85",
+								"bulk_price": "17.00",
+								"unit_price": "4.25",
 								"size_format": "l"
 							},
 							{
@@ -24210,8 +24102,8 @@
 								"name": "Laca cabello Ultra Fuerte Pantene fijación 5",
 								"iva": 21,
 								"unit_size": 0.3,
-								"bulk_price": "12.83",
-								"unit_price": "3.85",
+								"bulk_price": "14.17",
+								"unit_price": "4.25",
 								"size_format": "l"
 							},
 							{
@@ -24890,15 +24782,6 @@
 								"size_format": "l"
 							},
 							{
-								"id": "45549",
-								"name": "Loción after shave Deliplus con extracto de algas marinas",
-								"iva": 21,
-								"unit_size": 0.32,
-								"bulk_price": "8.75",
-								"unit_price": "2.80",
-								"size_format": "l"
-							},
-							{
 								"id": "44924",
 								"name": "Lote corporal Nivea Men",
 								"iva": 21,
@@ -24915,6 +24798,15 @@
 								"bulk_price": "12.00",
 								"unit_price": "12.00",
 								"size_format": "ud"
+							},
+							{
+								"id": "60658",
+								"name": "Loción after shave Fresh Deliplus con alcohol",
+								"iva": 21,
+								"unit_size": 0.15,
+								"bulk_price": "9.00",
+								"unit_price": "1.35",
+								"size_format": "l"
 							}
 						]
 					},
@@ -25036,6 +24928,15 @@
 						"id": 806,
 						"name": "Recambios maquinilla de afeitar",
 						"content": [
+							{
+								"id": "22084",
+								"name": "Recambios maquinilla de afeitar Deliplus Precision System 3 hojas",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "0.93",
+								"unit_price": "3.70",
+								"size_format": "ud"
+							},
 							{
 								"id": "73449",
 								"name": "Recambios maquinilla de afeitar Deliplus Precision System 5 hojas",
@@ -26027,6 +25928,15 @@
 								"size_format": "l"
 							},
 							{
+								"id": "46861",
+								"name": "Crema facial protectora anti-manchas Deliplus FPS 50+",
+								"iva": 21,
+								"unit_size": 0.05,
+								"bulk_price": "120.00",
+								"unit_price": "6.00",
+								"size_format": "l"
+							},
+							{
 								"id": "22503",
 								"name": "Gel facial Hidrata Deliplus ácido hialurónico",
 								"iva": 21,
@@ -26523,8 +26433,8 @@
 								"name": "Desodorante roll-on Dermo extra control Sanex antitranspirante",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "38.00",
-								"unit_price": "1.90",
+								"bulk_price": "42.00",
+								"unit_price": "2.10",
 								"size_format": "l"
 							},
 							{
@@ -26586,8 +26496,8 @@
 								"name": "Desodorante roll-on Dermo Sensitive Sanex antitranspirante",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "38.00",
-								"unit_price": "1.90",
+								"bulk_price": "42.00",
+								"unit_price": "2.10",
 								"size_format": "l"
 							},
 							{
@@ -26622,8 +26532,8 @@
 								"name": "Desodorante roll-on Active control Sanex men antitranspirante",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "38.00",
-								"unit_price": "1.90",
+								"bulk_price": "42.00",
+								"unit_price": "2.10",
 								"size_format": "l"
 							},
 							{
@@ -26649,8 +26559,8 @@
 								"name": "Desodorante en crema original Dove antitranspirante",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "40.00",
-								"unit_price": "2.00",
+								"bulk_price": "46.00",
+								"unit_price": "2.30",
 								"size_format": "l"
 							},
 							{
@@ -26676,8 +26586,8 @@
 								"name": "Desodorante roll-on original Dove antitranspirante",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "43.00",
-								"unit_price": "2.15",
+								"bulk_price": "50.00",
+								"unit_price": "2.50",
 								"size_format": "l"
 							},
 							{
@@ -26685,8 +26595,8 @@
 								"name": "Desodorante roll-on Zero% Sanex",
 								"iva": 21,
 								"unit_size": 0.05,
-								"bulk_price": "38.00",
-								"unit_price": "1.90",
+								"bulk_price": "42.00",
+								"unit_price": "2.10",
 								"size_format": "l"
 							},
 							{
@@ -26862,8 +26772,8 @@
 								"name": "Desodorante dermo extra control Sanex antitranspirante",
 								"iva": 21,
 								"unit_size": 0.2,
-								"bulk_price": "12.75",
-								"unit_price": "2.55",
+								"bulk_price": "15.00",
+								"unit_price": "3.00",
 								"size_format": "l"
 							},
 							{
@@ -26925,8 +26835,8 @@
 								"name": "Desodorante Zero% Sanex",
 								"iva": 21,
 								"unit_size": 0.2,
-								"bulk_price": "12.75",
-								"unit_price": "2.55",
+								"bulk_price": "15.00",
+								"unit_price": "3.00",
 								"size_format": "l"
 							},
 							{
@@ -27141,8 +27051,8 @@
 								"name": "Gel de baño Hidratante y protector Sanex para todo tipo de piel",
 								"iva": 21,
 								"unit_size": 0.85,
-								"bulk_price": "4.12",
-								"unit_price": "3.50",
+								"bulk_price": "4.59",
+								"unit_price": "3.90",
 								"size_format": "l"
 							},
 							{
@@ -27444,8 +27354,8 @@
 								"name": "Dentífrico Pro-Expert Oral-B sabor menta fresca",
 								"iva": 21,
 								"unit_size": 0.085,
-								"bulk_price": "37.65",
-								"unit_price": "3.20",
+								"bulk_price": "33.53",
+								"unit_price": "2.85",
 								"size_format": "l"
 							},
 							{
@@ -27489,8 +27399,8 @@
 								"name": "Dentífrico Repair & Protect Sensodyne",
 								"iva": 21,
 								"unit_size": 0.075,
-								"bulk_price": "53.33",
-								"unit_price": "4.00",
+								"bulk_price": "62.67",
+								"unit_price": "4.70",
 								"size_format": "l"
 							},
 							{
@@ -27929,6 +27839,15 @@
 								"size_format": "ud"
 							},
 							{
+								"id": "86302",
+								"name": "Crema fijadora prótesis dentales Polident fijación fuerte",
+								"iva": 10,
+								"unit_size": 0.044,
+								"bulk_price": "123.86",
+								"unit_price": "5.45",
+								"size_format": "kg"
+							},
+							{
 								"id": "46972",
 								"name": "Enjuague bucal Sensitive Deliplus zero alcohol",
 								"iva": 21,
@@ -28098,8 +28017,8 @@
 								"name": "Compresa sin alas normal Evax fina y segura",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.10",
-								"unit_price": "2.00",
+								"bulk_price": "0.09",
+								"unit_price": "1.75",
 								"size_format": "ud"
 							},
 							{
@@ -28116,8 +28035,8 @@
 								"name": "Compresa con alas noche Ausonia",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.18",
-								"unit_price": "2.95",
+								"bulk_price": "0.16",
+								"unit_price": "2.50",
 								"size_format": "ud"
 							},
 							{
@@ -28134,8 +28053,8 @@
 								"name": "Compresa con alas normal Ausonia",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.12",
-								"unit_price": "2.95",
+								"bulk_price": "0.10",
+								"unit_price": "2.50",
 								"size_format": "ud"
 							},
 							{
@@ -28143,8 +28062,8 @@
 								"name": "Compresa con alas super Ausonia",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.15",
-								"unit_price": "2.95",
+								"bulk_price": "0.13",
+								"unit_price": "2.50",
 								"size_format": "ud"
 							},
 							{
@@ -28152,8 +28071,8 @@
 								"name": "Compresa con alas normal Evax fina y segura",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.13",
-								"unit_price": "2.00",
+								"bulk_price": "0.11",
+								"unit_price": "1.75",
 								"size_format": "ud"
 							},
 							{
@@ -28170,8 +28089,8 @@
 								"name": "Compresa sin alas maxi super Evax",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.13",
-								"unit_price": "2.00",
+								"bulk_price": "0.11",
+								"unit_price": "1.75",
 								"size_format": "ud"
 							},
 							{
@@ -28302,8 +28221,8 @@
 								"name": "Protegeslip normal Evax",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.05",
-								"unit_price": "3.50",
+								"bulk_price": "0.04",
+								"unit_price": "3.00",
 								"size_format": "ud"
 							},
 							{
@@ -28320,8 +28239,8 @@
 								"name": "Protegeslip Cotton flexiform Carefree regular + tanga",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.06",
-								"unit_price": "1.80",
+								"bulk_price": "0.07",
+								"unit_price": "2.05",
 								"size_format": "ud"
 							},
 							{
@@ -28407,17 +28326,8 @@
 								"name": "Tampones super Tampax Compak con aplicador",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.18",
-								"unit_price": "5.75",
-								"size_format": "ud"
-							},
-							{
-								"id": "47360",
-								"name": "Tampones super Deliplus con aplicador compacto",
-								"iva": 4,
-								"unit_size": 1.0,
-								"bulk_price": "0.09",
-								"unit_price": "2.98",
+								"bulk_price": "0.15",
+								"unit_price": "4.95",
 								"size_format": "ud"
 							},
 							{
@@ -28425,17 +28335,8 @@
 								"name": "Tampones super plus Tampax Compak con aplicador",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.22",
-								"unit_price": "5.75",
-								"size_format": "ud"
-							},
-							{
-								"id": "47359",
-								"name": "Tampones regular Deliplus con aplicador compacto",
-								"iva": 4,
-								"unit_size": 1.0,
-								"bulk_price": "0.09",
-								"unit_price": "2.98",
+								"bulk_price": "0.19",
+								"unit_price": "4.95",
 								"size_format": "ud"
 							},
 							{
@@ -28443,8 +28344,8 @@
 								"name": "Tampones regular Tampax Compak con aplicador",
 								"iva": 4,
 								"unit_size": 1.0,
-								"bulk_price": "0.17",
-								"unit_price": "5.75",
+								"bulk_price": "0.15",
+								"unit_price": "4.95",
 								"size_format": "ud"
 							},
 							{
@@ -28769,6 +28670,24 @@
 								"size_format": "ud"
 							},
 							{
+								"id": "7917",
+								"name": "Laca de uñas efecto gel Deliplus 244 Malva",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "2.65",
+								"unit_price": "2.65",
+								"size_format": "ud"
+							},
+							{
+								"id": "7941",
+								"name": "Laca de uñas efecto gel Deliplus 245 Salmon",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "2.65",
+								"unit_price": "2.65",
+								"size_format": "ud"
+							},
+							{
 								"id": "41904",
 								"name": "Laca de uñas efecto gel Deliplus 660 granate",
 								"iva": 21,
@@ -28888,24 +28807,6 @@
 							{
 								"id": "52727",
 								"name": "Laca de uñas alto brillo Deliplus 80 mostaza",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "2.50",
-								"unit_price": "2.50",
-								"size_format": "ud"
-							},
-							{
-								"id": "35996",
-								"name": "Laca de uñas Mate Deliplus 200 naranja",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "2.50",
-								"unit_price": "2.50",
-								"size_format": "ud"
-							},
-							{
-								"id": "52414",
-								"name": "Laca de uñas Mate Deliplus 201 rojo",
 								"iva": 21,
 								"unit_size": 1.0,
 								"bulk_price": "2.50",
@@ -29747,15 +29648,6 @@
 								"size_format": "l"
 							},
 							{
-								"id": "52566",
-								"name": "Eau de parfum mujer Soirée My Soul for her",
-								"iva": 21,
-								"unit_size": 0.1,
-								"bulk_price": "140.00",
-								"unit_price": "14.00",
-								"size_format": "l"
-							},
-							{
 								"id": "52572",
 								"name": "Mini eau de parfum mujer Flor de Mayo Shiny Cup Cake",
 								"iva": 21,
@@ -29852,6 +29744,15 @@
 						"name": "Lotes mujer",
 						"content": [
 							{
+								"id": "22119",
+								"name": "Lote mujer Capítulo Oriental",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "9.00",
+								"unit_price": "9.00",
+								"size_format": "ud"
+							},
+							{
 								"id": "35830",
 								"name": "Lote mujer Reebok Revitalizing Boost",
 								"iva": 21,
@@ -29921,24 +29822,6 @@
 								"unit_size": 1.0,
 								"bulk_price": "6.90",
 								"unit_price": "6.90",
-								"size_format": "ud"
-							},
-							{
-								"id": "52577",
-								"name": "Lote mujer Elección",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "11.00",
-								"unit_price": "11.00",
-								"size_format": "ud"
-							},
-							{
-								"id": "52985",
-								"name": "Lote mujer Rose Nude",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "10.00",
-								"unit_price": "10.00",
 								"size_format": "ud"
 							},
 							{
@@ -30404,15 +30287,6 @@
 								"size_format": "ud"
 							},
 							{
-								"id": "60902",
-								"name": "Lote hombre Gesto",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "7.50",
-								"unit_price": "7.50",
-								"size_format": "ud"
-							},
-							{
 								"id": "60836",
 								"name": "Lote corporal hombre Axe Dark Temptation",
 								"iva": 21,
@@ -30858,8 +30732,8 @@
 								"name": "Barritas con proteínas Enervit Sport sabor coco y chocolate",
 								"iva": 10,
 								"unit_size": 0.12,
-								"bulk_price": "26.25",
-								"unit_price": "3.15",
+								"bulk_price": "27.92",
+								"unit_price": "3.35",
 								"size_format": "kg"
 							},
 							{
@@ -31092,8 +30966,8 @@
 								"name": "Barrita con proteínas Enervit Sport sabor chocolate negro",
 								"iva": 10,
 								"unit_size": 0.18,
-								"bulk_price": "27.22",
-								"unit_price": "4.90",
+								"bulk_price": "28.61",
+								"unit_price": "5.15",
 								"size_format": "kg"
 							},
 							{
@@ -31215,15 +31089,6 @@
 								"bulk_price": "0.03",
 								"unit_price": "1.00",
 								"size_format": "ud"
-							},
-							{
-								"id": "33357",
-								"name": "Solución única para lentes de contacto blandas Deliplus con ácido hialurónico",
-								"iva": 10,
-								"unit_size": 0.36,
-								"bulk_price": "11.11",
-								"unit_price": "4.00",
-								"size_format": "l"
 							},
 							{
 								"id": "79673",
@@ -31505,9 +31370,9 @@
 								"id": "3819",
 								"name": "Plátano de Canarias IGP",
 								"iva": 0,
-								"unit_size": 0.15,
+								"unit_size": 0.16,
 								"bulk_price": "2.15",
-								"unit_price": "0.32",
+								"unit_price": "0.34",
 								"size_format": "kg"
 							},
 							{
@@ -31523,9 +31388,9 @@
 								"id": "3132",
 								"name": "Plátano macho",
 								"iva": 0,
-								"unit_size": 0.32,
+								"unit_size": 0.3,
 								"bulk_price": "2.89",
-								"unit_price": "0.92",
+								"unit_price": "0.87",
 								"size_format": "kg"
 							},
 							{
@@ -31533,8 +31398,8 @@
 								"name": "Uva blanca sin semillas",
 								"iva": 0,
 								"unit_size": 0.5,
-								"bulk_price": "5.10",
-								"unit_price": "2.55",
+								"bulk_price": "4.99",
+								"unit_price": "2.50",
 								"size_format": "kg"
 							},
 							{
@@ -31610,18 +31475,18 @@
 								"id": "3170",
 								"name": "Pera Ercolina",
 								"iva": 0,
-								"unit_size": 0.09,
+								"unit_size": 0.1,
 								"bulk_price": "3.49",
-								"unit_price": "0.31",
+								"unit_price": "0.35",
 								"size_format": "kg"
 							},
 							{
 								"id": "3021",
 								"name": "Manzana Granny Smith",
 								"iva": 0,
-								"unit_size": 0.29,
+								"unit_size": 0.22,
 								"bulk_price": "2.09",
-								"unit_price": "0.61",
+								"unit_price": "0.46",
 								"size_format": "kg"
 							},
 							{
@@ -31637,9 +31502,9 @@
 								"id": "8175",
 								"name": "Manzana roja acidulce",
 								"iva": 0,
-								"unit_size": 0.25,
+								"unit_size": 0.22,
 								"bulk_price": "2.39",
-								"unit_price": "0.60",
+								"unit_price": "0.53",
 								"size_format": "kg"
 							},
 							{
@@ -31647,8 +31512,8 @@
 								"name": "Manzanas rojas acidulces",
 								"iva": 0,
 								"unit_size": 1.5,
-								"bulk_price": "1.99",
-								"unit_price": "2.99",
+								"bulk_price": "2.39",
+								"unit_price": "3.59",
 								"size_format": "kg"
 							}
 						]
@@ -31661,45 +31526,45 @@
 								"id": "3505.2",
 								"name": "1/4 Sandía baja en semillas",
 								"iva": 0,
-								"unit_size": 1.89,
+								"unit_size": 1.92,
 								"bulk_price": "2.29",
-								"unit_price": "4.33",
+								"unit_price": "4.40",
 								"size_format": "kg"
 							},
 							{
 								"id": "3505.1",
 								"name": "Media sandía baja en semillas",
 								"iva": 0,
-								"unit_size": 3.77,
+								"unit_size": 3.85,
 								"bulk_price": "2.29",
-								"unit_price": "8.63",
+								"unit_price": "8.82",
 								"size_format": "kg"
 							},
 							{
 								"id": "3529",
 								"name": "Sandía baja en semillas",
 								"iva": 0,
-								"unit_size": 7.18,
+								"unit_size": 7.72,
 								"bulk_price": "2.19",
-								"unit_price": "15.72",
+								"unit_price": "16.91",
 								"size_format": "kg"
 							},
 							{
 								"id": "3515",
 								"name": "Medio melón piel de sapo",
 								"iva": 0,
-								"unit_size": 1.75,
+								"unit_size": 1.57,
 								"bulk_price": "2.19",
-								"unit_price": "3.83",
+								"unit_price": "3.44",
 								"size_format": "kg"
 							},
 							{
 								"id": "3506",
 								"name": "Melón piel de sapo",
 								"iva": 0,
-								"unit_size": 3.44,
+								"unit_size": 3.12,
 								"bulk_price": "1.89",
-								"unit_price": "6.50",
+								"unit_price": "5.90",
 								"size_format": "kg"
 							}
 						]
@@ -31713,8 +31578,8 @@
 								"name": "Limones",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "1.55",
-								"unit_price": "1.55",
+								"bulk_price": "1.79",
+								"unit_price": "1.79",
 								"size_format": "kg"
 							},
 							{
@@ -31722,8 +31587,8 @@
 								"name": "Limón",
 								"iva": 0,
 								"unit_size": 0.23,
-								"bulk_price": "1.85",
-								"unit_price": "0.43",
+								"bulk_price": "1.99",
+								"unit_price": "0.46",
 								"size_format": "kg"
 							},
 							{
@@ -31757,9 +31622,9 @@
 								"id": "3235",
 								"name": "Naranja para mesa",
 								"iva": 0,
-								"unit_size": 0.33,
+								"unit_size": 0.32,
 								"bulk_price": "1.89",
-								"unit_price": "0.62",
+								"unit_price": "0.60",
 								"size_format": "kg"
 							},
 							{
@@ -31784,9 +31649,9 @@
 								"id": "3202",
 								"name": "Pomelo",
 								"iva": 0,
-								"unit_size": 0.41,
+								"unit_size": 0.44,
 								"bulk_price": "1.99",
-								"unit_price": "0.82",
+								"unit_price": "0.88",
 								"size_format": "kg"
 							},
 							{
@@ -31808,9 +31673,9 @@
 								"id": "3820",
 								"name": "Kiwi verde",
 								"iva": 0,
-								"unit_size": 0.13,
+								"unit_size": 0.12,
 								"bulk_price": "2.95",
-								"unit_price": "0.38",
+								"unit_price": "0.35",
 								"size_format": "kg"
 							},
 							{
@@ -31826,9 +31691,9 @@
 								"id": "3830",
 								"name": "Aguacate",
 								"iva": 0,
-								"unit_size": 0.21,
+								"unit_size": 0.22,
 								"bulk_price": "5.25",
-								"unit_price": "1.10",
+								"unit_price": "1.16",
 								"size_format": "kg"
 							},
 							{
@@ -31844,18 +31709,18 @@
 								"id": "3076",
 								"name": "Piña",
 								"iva": 0,
-								"unit_size": 1.78,
+								"unit_size": 1.85,
 								"bulk_price": "1.91",
-								"unit_price": "3.40",
+								"unit_price": "3.53",
 								"size_format": "kg"
 							},
 							{
 								"id": "3291",
 								"name": "Media piña",
 								"iva": 0,
-								"unit_size": 0.88,
+								"unit_size": 0.94,
 								"bulk_price": "2.11",
-								"unit_price": "1.86",
+								"unit_price": "1.98",
 								"size_format": "kg"
 							},
 							{
@@ -31863,8 +31728,8 @@
 								"name": "Guacamole Hacendado",
 								"iva": 10,
 								"unit_size": 0.5,
-								"bulk_price": "7.18",
-								"unit_price": "3.59",
+								"bulk_price": "7.58",
+								"unit_price": "3.79",
 								"size_format": "kg"
 							},
 							{
@@ -31872,17 +31737,17 @@
 								"name": "Guacamole Hacendado",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "8.75",
-								"unit_price": "1.75",
+								"bulk_price": "9.45",
+								"unit_price": "1.89",
 								"size_format": "kg"
 							},
 							{
 								"id": "60440",
 								"name": "Mango",
 								"iva": 0,
-								"unit_size": 0.49,
+								"unit_size": 0.55,
 								"bulk_price": "4.59",
-								"unit_price": "2.25",
+								"unit_price": "2.52",
 								"size_format": "kg"
 							},
 							{
@@ -31898,9 +31763,9 @@
 								"id": "3026",
 								"name": "Papaya",
 								"iva": 0,
-								"unit_size": 0.52,
+								"unit_size": 0.45,
 								"bulk_price": "4.99",
-								"unit_price": "2.59",
+								"unit_price": "2.25",
 								"size_format": "kg"
 							}
 						]
@@ -32294,9 +32159,9 @@
 								"id": "69066",
 								"name": "Patata",
 								"iva": 0,
-								"unit_size": 0.22,
+								"unit_size": 0.21,
 								"bulk_price": "1.99",
-								"unit_price": "0.44",
+								"unit_price": "0.42",
 								"size_format": "kg"
 							},
 							{
@@ -32322,8 +32187,8 @@
 								"name": "Patatas",
 								"iva": 0,
 								"unit_size": 5.0,
-								"bulk_price": "1.30",
-								"unit_price": "6.49",
+								"bulk_price": "1.40",
+								"unit_price": "6.99",
 								"size_format": "kg"
 							},
 							{
@@ -32339,9 +32204,9 @@
 								"id": "69239",
 								"name": "Batata",
 								"iva": 0,
-								"unit_size": 0.45,
+								"unit_size": 0.47,
 								"bulk_price": "2.85",
-								"unit_price": "1.28",
+								"unit_price": "1.34",
 								"size_format": "kg"
 							},
 							{
@@ -32357,9 +32222,9 @@
 								"id": "69173",
 								"name": "Yuca",
 								"iva": 0,
-								"unit_size": 0.63,
+								"unit_size": 0.53,
 								"bulk_price": "2.68",
-								"unit_price": "1.69",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							}
 						]
@@ -32459,9 +32324,9 @@
 								"id": "69937",
 								"name": "Tomate ensalada",
 								"iva": 0,
-								"unit_size": 0.22,
+								"unit_size": 0.18,
 								"bulk_price": "2.29",
-								"unit_price": "0.50",
+								"unit_price": "0.41",
 								"size_format": "kg"
 							},
 							{
@@ -32558,9 +32423,9 @@
 								"id": "69487",
 								"name": "Rama de Tomates",
 								"iva": 0,
-								"unit_size": 0.76,
+								"unit_size": 0.77,
 								"bulk_price": "2.29",
-								"unit_price": "1.74",
+								"unit_price": "1.76",
 								"size_format": "kg"
 							},
 							{
@@ -32592,8 +32457,8 @@
 								"name": "Pepino",
 								"iva": 0,
 								"unit_size": 0.19,
-								"bulk_price": "1.65",
-								"unit_price": "0.31",
+								"bulk_price": "1.99",
+								"unit_price": "0.38",
 								"size_format": "kg"
 							},
 							{
@@ -32651,18 +32516,18 @@
 								"id": "69310",
 								"name": "Pimiento rojo",
 								"iva": 0,
-								"unit_size": 0.41,
+								"unit_size": 0.4,
 								"bulk_price": "2.69",
-								"unit_price": "1.10",
+								"unit_price": "1.08",
 								"size_format": "kg"
 							},
 							{
 								"id": "69338",
 								"name": "Calabacín verde",
 								"iva": 0,
-								"unit_size": 0.39,
+								"unit_size": 0.38,
 								"bulk_price": "1.79",
-								"unit_price": "0.70",
+								"unit_price": "0.68",
 								"size_format": "kg"
 							},
 							{
@@ -32670,17 +32535,17 @@
 								"name": "Pimiento verde freír",
 								"iva": 0,
 								"unit_size": 0.11,
-								"bulk_price": "2.19",
-								"unit_price": "0.24",
+								"bulk_price": "2.49",
+								"unit_price": "0.27",
 								"size_format": "kg"
 							},
 							{
 								"id": "69339",
 								"name": "Calabacín blanco",
 								"iva": 0,
-								"unit_size": 0.42,
+								"unit_size": 0.41,
 								"bulk_price": "1.99",
-								"unit_price": "0.84",
+								"unit_price": "0.82",
 								"size_format": "kg"
 							},
 							{
@@ -32720,63 +32585,63 @@
 								"id": "69220",
 								"name": "Coliflor",
 								"iva": 0,
-								"unit_size": 1.27,
+								"unit_size": 1.34,
 								"bulk_price": "1.99",
-								"unit_price": "2.53",
+								"unit_price": "2.67",
 								"size_format": "kg"
 							},
 							{
 								"id": "69236",
 								"name": "Repollo liso",
 								"iva": 0,
-								"unit_size": 1.41,
+								"unit_size": 1.32,
 								"bulk_price": "1.65",
-								"unit_price": "2.33",
+								"unit_price": "2.18",
 								"size_format": "kg"
 							},
 							{
 								"id": "69246",
 								"name": "Medio repollo liso",
 								"iva": 0,
-								"unit_size": 0.79,
+								"unit_size": 0.72,
 								"bulk_price": "1.94",
-								"unit_price": "1.53",
+								"unit_price": "1.40",
 								"size_format": "kg"
 							},
 							{
 								"id": "69238",
 								"name": "Repollo rizado",
 								"iva": 0,
-								"unit_size": 0.88,
+								"unit_size": 0.92,
 								"bulk_price": "1.65",
-								"unit_price": "1.45",
+								"unit_price": "1.52",
 								"size_format": "kg"
 							},
 							{
 								"id": "69257",
 								"name": "Medio repollo rizado",
 								"iva": 0,
-								"unit_size": 0.61,
+								"unit_size": 0.67,
 								"bulk_price": "1.94",
-								"unit_price": "1.18",
+								"unit_price": "1.30",
 								"size_format": "kg"
 							},
 							{
 								"id": "69251",
 								"name": "Col lombarda",
 								"iva": 0,
-								"unit_size": 0.87,
+								"unit_size": 0.86,
 								"bulk_price": "1.85",
-								"unit_price": "1.61",
+								"unit_price": "1.59",
 								"size_format": "kg"
 							},
 							{
 								"id": "69258",
 								"name": "Media col lombarda",
 								"iva": 0,
-								"unit_size": 0.53,
+								"unit_size": 0.52,
 								"bulk_price": "2.10",
-								"unit_price": "1.11",
+								"unit_price": "1.09",
 								"size_format": "kg"
 							}
 						]
@@ -32877,8 +32742,8 @@
 								"name": "Perejil troceado",
 								"iva": 10,
 								"unit_size": 0.04,
-								"bulk_price": "18.75",
-								"unit_price": "0.75",
+								"bulk_price": "19.75",
+								"unit_price": "0.79",
 								"size_format": "kg"
 							},
 							{
@@ -32955,17 +32820,17 @@
 								"name": "Berenjena",
 								"iva": 0,
 								"unit_size": 0.34,
-								"bulk_price": "1.89",
-								"unit_price": "0.64",
+								"bulk_price": "1.49",
+								"unit_price": "0.51",
 								"size_format": "kg"
 							},
 							{
 								"id": "69347",
 								"name": "Berenjena rayada",
 								"iva": 0,
-								"unit_size": 0.37,
+								"unit_size": 0.35,
 								"bulk_price": "2.11",
-								"unit_price": "0.78",
+								"unit_price": "0.74",
 								"size_format": "kg"
 							},
 							{
@@ -33072,8 +32937,8 @@
 								"name": "Espárrago verde fino",
 								"iva": 0,
 								"unit_size": 0.25,
-								"bulk_price": "9.00",
-								"unit_price": "2.25",
+								"bulk_price": "7.96",
+								"unit_price": "1.99",
 								"size_format": "kg"
 							},
 							{
@@ -33107,9 +32972,9 @@
 								"id": "69038",
 								"name": "Nabicol",
 								"iva": 0,
-								"unit_size": 0.3,
+								"unit_size": 0.28,
 								"bulk_price": "2.98",
-								"unit_price": "0.89",
+								"unit_price": "0.83",
 								"size_format": "kg"
 							},
 							{
@@ -33125,18 +32990,18 @@
 								"id": "3388",
 								"name": "Calabaza cacahuete",
 								"iva": 0,
-								"unit_size": 1.02,
+								"unit_size": 1.15,
 								"bulk_price": "1.85",
-								"unit_price": "1.89",
+								"unit_price": "2.13",
 								"size_format": "kg"
 							},
 							{
 								"id": "3387",
 								"name": "Media calabaza cacahuete",
 								"iva": 0,
-								"unit_size": 0.57,
+								"unit_size": 0.64,
 								"bulk_price": "2.10",
-								"unit_price": "1.20",
+								"unit_price": "1.34",
 								"size_format": "kg"
 							},
 							{
@@ -33195,8 +33060,8 @@
 								"name": "Sopa juliana para microondas",
 								"iva": 0,
 								"unit_size": 0.4,
-								"bulk_price": "3.38",
-								"unit_price": "1.35",
+								"bulk_price": "4.13",
+								"unit_price": "1.65",
 								"size_format": "kg"
 							},
 							{
@@ -33369,8 +33234,8 @@
 								"name": "Leche semidesnatada Hacendado",
 								"iva": 0,
 								"unit_size": 6.0,
-								"bulk_price": "0.87",
-								"unit_price": "5.22",
+								"bulk_price": "0.83",
+								"unit_price": "4.98",
 								"size_format": "l"
 							},
 							{
@@ -33378,8 +33243,8 @@
 								"name": "Leche semidesnatada Hacendado",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "0.87",
-								"unit_price": "0.87",
+								"bulk_price": "0.83",
+								"unit_price": "0.83",
 								"size_format": "l"
 							},
 							{
@@ -33414,8 +33279,8 @@
 								"name": "Leche semidesnatada sin lactosa Hacendado",
 								"iva": 0,
 								"unit_size": 6.0,
-								"bulk_price": "0.95",
-								"unit_price": "5.70",
+								"bulk_price": "0.91",
+								"unit_price": "5.46",
 								"size_format": "l"
 							},
 							{
@@ -33423,8 +33288,8 @@
 								"name": "Leche semidesnatada sin lactosa Hacendado",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "0.95",
-								"unit_price": "0.95",
+								"bulk_price": "0.91",
+								"unit_price": "0.91",
 								"size_format": "l"
 							},
 							{
@@ -33564,8 +33429,8 @@
 								"name": "Leche desnatada Hacendado",
 								"iva": 0,
 								"unit_size": 6.0,
-								"bulk_price": "0.85",
-								"unit_price": "5.10",
+								"bulk_price": "0.80",
+								"unit_price": "4.80",
 								"size_format": "l"
 							},
 							{
@@ -33573,8 +33438,8 @@
 								"name": "Leche desnatada Hacendado",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "0.85",
-								"unit_price": "0.85",
+								"bulk_price": "0.80",
+								"unit_price": "0.80",
 								"size_format": "l"
 							},
 							{
@@ -33582,8 +33447,8 @@
 								"name": "Leche desnatada sin lactosa Hacendado",
 								"iva": 0,
 								"unit_size": 6.0,
-								"bulk_price": "0.93",
-								"unit_price": "5.58",
+								"bulk_price": "0.88",
+								"unit_price": "5.28",
 								"size_format": "l"
 							},
 							{
@@ -33591,8 +33456,8 @@
 								"name": "Leche desnatada sin lactosa Hacendado",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "0.93",
-								"unit_price": "0.93",
+								"bulk_price": "0.88",
+								"unit_price": "0.88",
 								"size_format": "l"
 							},
 							{
@@ -33600,8 +33465,8 @@
 								"name": "Leche desnatada calcio Hacendado",
 								"iva": 0,
 								"unit_size": 6.0,
-								"bulk_price": "0.94",
-								"unit_price": "5.64",
+								"bulk_price": "0.93",
+								"unit_price": "5.58",
 								"size_format": "l"
 							},
 							{
@@ -33609,8 +33474,8 @@
 								"name": "Leche desnatada calcio Hacendado",
 								"iva": 0,
 								"unit_size": 1.0,
-								"bulk_price": "0.94",
-								"unit_price": "0.94",
+								"bulk_price": "0.93",
+								"unit_price": "0.93",
 								"size_format": "l"
 							},
 							{
@@ -34967,6 +34832,15 @@
 								"size_format": "kg"
 							},
 							{
+								"id": "13607",
+								"name": "Jabón Natural con glicerina Bosque Verde",
+								"iva": 21,
+								"unit_size": 0.4,
+								"bulk_price": "4.63",
+								"unit_price": "1.85",
+								"size_format": "kg"
+							},
+							{
 								"id": "40009",
 								"name": "Jabón en escamas Capricho con aceite de coco y glicerina",
 								"iva": 21,
@@ -35393,6 +35267,15 @@
 						"name": "Guantes",
 						"content": [
 							{
+								"id": "23628",
+								"name": "Guantes de látex Bosque Verde talla pequeña",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "0.35",
+								"unit_price": "0.70",
+								"size_format": "ud"
+							},
+							{
 								"id": "23629",
 								"name": "Guantes de látex Bosque Verde talla mediana",
 								"iva": 21,
@@ -35641,8 +35524,8 @@
 								"name": "Salfumant Bosque Verde",
 								"iva": 21,
 								"unit_size": 1.0,
-								"bulk_price": "1.00",
-								"unit_price": "1.00",
+								"bulk_price": "1.10",
+								"unit_price": "1.10",
 								"size_format": "l"
 							},
 							{
@@ -35670,6 +35553,24 @@
 								"unit_size": 0.5,
 								"bulk_price": "3.40",
 								"unit_price": "1.70",
+								"size_format": "l"
+							},
+							{
+								"id": "35571",
+								"name": "Salfumant Bosque Verde",
+								"iva": 21,
+								"unit_size": 10.0,
+								"bulk_price": "0.90",
+								"unit_price": "9.00",
+								"size_format": "l"
+							},
+							{
+								"id": "90333",
+								"name": "Salfumant Bosque Verde",
+								"iva": 21,
+								"unit_size": 5.0,
+								"bulk_price": "0.90",
+								"unit_price": "4.50",
 								"size_format": "l"
 							},
 							{
@@ -35715,21 +35616,39 @@
 						"name": "Tratamiento piscina",
 						"content": [
 							{
+								"id": "80308",
+								"name": "Cloro rápido granulado para piscina",
+								"iva": 21,
+								"unit_size": 0.5,
+								"bulk_price": "16.00",
+								"unit_price": "8.00",
+								"size_format": "kg"
+							},
+							{
 								"id": "90309",
 								"name": "Antialgas líquido Bosque Verde para piscina",
 								"iva": 21,
 								"unit_size": 5.0,
-								"bulk_price": "2.00",
-								"unit_price": "10.00",
+								"bulk_price": "2.10",
+								"unit_price": "10.50",
 								"size_format": "l"
+							},
+							{
+								"id": "80302",
+								"name": "Eliminador de turbidez en saquitos para piscina",
+								"iva": 21,
+								"unit_size": 0.12,
+								"bulk_price": "25.00",
+								"unit_price": "3.00",
+								"size_format": "kg"
 							},
 							{
 								"id": "80320",
 								"name": "Cloro rápido granulado para piscina",
 								"iva": 21,
 								"unit_size": 5.0,
-								"bulk_price": "6.90",
-								"unit_price": "34.50",
+								"bulk_price": "6.50",
+								"unit_price": "32.50",
 								"size_format": "kg"
 							},
 							{
@@ -35737,8 +35656,8 @@
 								"name": "Eliminador de turbidez líquido Bosque Verde para piscina",
 								"iva": 21,
 								"unit_size": 5.0,
-								"bulk_price": "2.60",
-								"unit_price": "13.00",
+								"bulk_price": "2.80",
+								"unit_price": "14.00",
 								"size_format": "l"
 							},
 							{
@@ -35746,9 +35665,18 @@
 								"name": "Reductor de pH Bosque Verde para piscina",
 								"iva": 21,
 								"unit_size": 5.0,
-								"bulk_price": "1.80",
-								"unit_price": "9.00",
+								"bulk_price": "2.00",
+								"unit_price": "10.00",
 								"size_format": "l"
+							},
+							{
+								"id": "80316",
+								"name": "Dosificador flotante para piscina",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "3.90",
+								"unit_price": "3.90",
+								"size_format": "ud"
 							},
 							{
 								"id": "90319",
@@ -35764,8 +35692,35 @@
 								"name": "Incrementador de pH para piscina",
 								"iva": 21,
 								"unit_size": 1.5,
-								"bulk_price": "3.00",
-								"unit_price": "4.50",
+								"bulk_price": "4.67",
+								"unit_price": "7.00",
+								"size_format": "kg"
+							},
+							{
+								"id": "86133",
+								"name": "Kit analizador de pH y cloro AquaChek para piscina y spa",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "13.50",
+								"unit_price": "13.50",
+								"size_format": "ud"
+							},
+							{
+								"id": "80317",
+								"name": "Kit minipiscinas",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "16.00",
+								"unit_price": "16.00",
+								"size_format": "ud"
+							},
+							{
+								"id": "23413",
+								"name": "Cloro disolución lenta tabletas para piscina",
+								"iva": 21,
+								"unit_size": 5.0,
+								"bulk_price": "5.66",
+								"unit_price": "28.30",
 								"size_format": "kg"
 							},
 							{
@@ -35773,8 +35728,8 @@
 								"name": "Cloro 5 acciones disolución lenta tabletas para piscina",
 								"iva": 21,
 								"unit_size": 5.0,
-								"bulk_price": "5.90",
-								"unit_price": "29.50",
+								"bulk_price": "5.66",
+								"unit_price": "28.30",
 								"size_format": "kg"
 							}
 						]
@@ -36963,6 +36918,15 @@
 								"unit_size": 4.0,
 								"bulk_price": "0.30",
 								"unit_price": "1.20",
+								"size_format": "ud"
+							},
+							{
+								"id": "86566",
+								"name": "Bolsas  desechables para cubitos de hielo Bosque Verde",
+								"iva": 21,
+								"unit_size": 20.0,
+								"bulk_price": "0.09",
+								"unit_price": "1.80",
 								"size_format": "ud"
 							}
 						]
@@ -39281,15 +39245,6 @@
 								"size_format": "ud"
 							},
 							{
-								"id": "35345",
-								"name": "Perfilador de ojos Waterproof Deliplus 06 marrón",
-								"iva": 21,
-								"unit_size": 1.0,
-								"bulk_price": "2.50",
-								"unit_price": "2.50",
-								"size_format": "ud"
-							},
-							{
 								"id": "52804",
 								"name": "Perfilador de ojos Deliplus 01 negro",
 								"iva": 21,
@@ -39773,6 +39728,42 @@
 								"bulk_price": "8.00",
 								"unit_price": "8.00",
 								"size_format": "ud"
+							},
+							{
+								"id": "52934",
+								"name": "Paleta sombras de ojos Maldivas",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "8.00",
+								"unit_price": "8.00",
+								"size_format": "ud"
+							},
+							{
+								"id": "52937",
+								"name": "Paleta sombras de ojos Manhattan",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "8.00",
+								"unit_price": "8.00",
+								"size_format": "ud"
+							},
+							{
+								"id": "52935",
+								"name": "Paleta sombras de ojos Cairo",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "8.00",
+								"unit_price": "8.00",
+								"size_format": "ud"
+							},
+							{
+								"id": "52936",
+								"name": "Paleta sombras de ojos New York",
+								"iva": 21,
+								"unit_size": 1.0,
+								"bulk_price": "8.00",
+								"unit_price": "8.00",
+								"size_format": "ud"
 							}
 						]
 					}
@@ -39809,8 +39800,8 @@
 								"name": "Kit de pinceles rostro Deliplus",
 								"iva": 21,
 								"unit_size": 3.0,
-								"bulk_price": "8.00",
-								"unit_price": "8.00",
+								"bulk_price": "7.00",
+								"unit_price": "7.00",
 								"size_format": "ud"
 							},
 							{
@@ -39818,8 +39809,8 @@
 								"name": "Kit de pinceles ojos Deliplus",
 								"iva": 21,
 								"unit_size": 4.0,
-								"bulk_price": "6.50",
-								"unit_price": "6.50",
+								"bulk_price": "5.50",
+								"unit_price": "5.50",
 								"size_format": "ud"
 							},
 							{
@@ -39827,8 +39818,8 @@
 								"name": "Kit de pinceles maquillaje Deliplus",
 								"iva": 21,
 								"unit_size": 2.0,
-								"bulk_price": "6.00",
-								"unit_price": "6.00",
+								"bulk_price": "5.00",
+								"unit_price": "5.00",
 								"size_format": "ud"
 							}
 						]
@@ -39854,8 +39845,8 @@
 								"name": "Preparado de paella y sopa Hacendado ultracongelado",
 								"iva": 10,
 								"unit_size": null,
-								"bulk_price": "5.77",
-								"unit_price": "3.95",
+								"bulk_price": "5.99",
+								"unit_price": "4.10",
 								"size_format": "kg"
 							},
 							{
@@ -40045,15 +40036,6 @@
 								"unit_size": 0.5,
 								"bulk_price": "21.30",
 								"unit_price": "10.65",
-								"size_format": "kg"
-							},
-							{
-								"id": "62386",
-								"name": "Bogavante americano mediano crudo Hacendado congelado",
-								"iva": 10,
-								"unit_size": null,
-								"bulk_price": "33.00",
-								"unit_price": "14.85",
 								"size_format": "kg"
 							},
 							{
@@ -40516,6 +40498,15 @@
 								"unit_size": 0.51,
 								"bulk_price": "7.75",
 								"unit_price": "3.95",
+								"size_format": "kg"
+							},
+							{
+								"id": "63101",
+								"name": "Filetes de merluza al huevo Hacendado ultracongelados",
+								"iva": 10,
+								"unit_size": 0.6,
+								"bulk_price": "8.25",
+								"unit_price": "4.95",
 								"size_format": "kg"
 							},
 							{
@@ -41014,54 +41005,54 @@
 								"id": "81649.1",
 								"name": "Salmón a rodajas",
 								"iva": 10,
-								"unit_size": 2.59,
+								"unit_size": 2.89,
 								"bulk_price": "12.45",
-								"unit_price": "32.25",
+								"unit_price": "35.98",
 								"size_format": "kg"
 							},
 							{
 								"id": "81649.4",
 								"name": "Salmón media pieza a rodajas",
 								"iva": 10,
-								"unit_size": 1.38,
+								"unit_size": 1.55,
 								"bulk_price": "12.45",
-								"unit_price": "17.18",
+								"unit_price": "19.30",
 								"size_format": "kg"
 							},
 							{
 								"id": "81649.2",
 								"name": "Salmón abierto en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 2.59,
+								"unit_size": 2.89,
 								"bulk_price": "12.45",
-								"unit_price": "32.25",
+								"unit_price": "35.98",
 								"size_format": "kg"
 							},
 							{
 								"id": "81649.5",
 								"name": "Salmón media pieza abierto en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 1.38,
+								"unit_size": 1.55,
 								"bulk_price": "12.45",
-								"unit_price": "17.18",
+								"unit_price": "19.30",
 								"size_format": "kg"
 							},
 							{
 								"id": "81649.3",
 								"name": "Salmón sin aletas y sin escamas",
 								"iva": 10,
-								"unit_size": 2.59,
+								"unit_size": 2.89,
 								"bulk_price": "12.45",
-								"unit_price": "32.25",
+								"unit_price": "35.98",
 								"size_format": "kg"
 							},
 							{
 								"id": "81649.6",
 								"name": "Salmón media pieza sin aletas y sin escamas",
 								"iva": 10,
-								"unit_size": 1.38,
+								"unit_size": 1.55,
 								"bulk_price": "12.45",
-								"unit_price": "17.18",
+								"unit_price": "19.30",
 								"size_format": "kg"
 							},
 							{
@@ -41101,45 +41092,45 @@
 								"id": "81234.1",
 								"name": "Dorada limpia con cabeza",
 								"iva": 10,
-								"unit_size": 0.43,
-								"bulk_price": "8.35",
-								"unit_price": "3.59",
+								"unit_size": 0.64,
+								"bulk_price": "8.75",
+								"unit_price": "5.60",
 								"size_format": "kg"
 							},
 							{
 								"id": "81234.2",
 								"name": "Dorada abierta a la espalda con espinas y con cabeza",
 								"iva": 10,
-								"unit_size": 0.43,
-								"bulk_price": "8.35",
-								"unit_price": "3.59",
+								"unit_size": 0.64,
+								"bulk_price": "8.75",
+								"unit_price": "5.60",
 								"size_format": "kg"
 							},
 							{
 								"id": "81234.5",
 								"name": "Dorada a filetes sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.43,
-								"bulk_price": "8.35",
-								"unit_price": "3.59",
+								"unit_size": 0.64,
+								"bulk_price": "8.75",
+								"unit_price": "5.60",
 								"size_format": "kg"
 							},
 							{
 								"id": "81234.4",
 								"name": "Dorada abierta en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.43,
-								"bulk_price": "8.35",
-								"unit_price": "3.59",
+								"unit_size": 0.64,
+								"bulk_price": "8.75",
+								"unit_price": "5.60",
 								"size_format": "kg"
 							},
 							{
 								"id": "81234.3",
 								"name": "Dorada sin limpiar",
 								"iva": 10,
-								"unit_size": 0.43,
-								"bulk_price": "8.35",
-								"unit_price": "3.59",
+								"unit_size": 0.64,
+								"bulk_price": "8.75",
+								"unit_price": "5.60",
 								"size_format": "kg"
 							},
 							{
@@ -41147,8 +41138,8 @@
 								"name": "Filetes de dorada",
 								"iva": 10,
 								"unit_size": 0.38,
-								"bulk_price": "22.55",
-								"unit_price": "8.57",
+								"bulk_price": "22.95",
+								"unit_price": "8.72",
 								"size_format": "kg"
 							}
 						]
@@ -41161,45 +41152,45 @@
 								"id": "81241.1",
 								"name": "Lubina limpia con cabeza",
 								"iva": 10,
-								"unit_size": 0.43,
+								"unit_size": 0.39,
 								"bulk_price": "8.25",
-								"unit_price": "3.55",
+								"unit_price": "3.22",
 								"size_format": "kg"
 							},
 							{
 								"id": "81241.2",
 								"name": "Lubina abierta a la espalda con espinas y con cabeza",
 								"iva": 10,
-								"unit_size": 0.43,
+								"unit_size": 0.39,
 								"bulk_price": "8.25",
-								"unit_price": "3.55",
+								"unit_price": "3.22",
 								"size_format": "kg"
 							},
 							{
 								"id": "81241.5",
 								"name": "Lubina a filetes sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.43,
+								"unit_size": 0.39,
 								"bulk_price": "8.25",
-								"unit_price": "3.55",
+								"unit_price": "3.22",
 								"size_format": "kg"
 							},
 							{
 								"id": "81241.4",
 								"name": "Lubina abierta en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.43,
+								"unit_size": 0.39,
 								"bulk_price": "8.25",
-								"unit_price": "3.55",
+								"unit_price": "3.22",
 								"size_format": "kg"
 							},
 							{
 								"id": "81241.3",
 								"name": "Lubina sin limpiar",
 								"iva": 10,
-								"unit_size": 0.43,
+								"unit_size": 0.39,
 								"bulk_price": "8.25",
-								"unit_price": "3.55",
+								"unit_price": "3.22",
 								"size_format": "kg"
 							},
 							{
@@ -41221,54 +41212,54 @@
 								"id": "82610.1",
 								"name": "Merluza a rodajas",
 								"iva": 10,
-								"unit_size": 1.23,
-								"bulk_price": "9.95",
-								"unit_price": "12.24",
+								"unit_size": 1.21,
+								"bulk_price": "8.95",
+								"unit_price": "10.83",
 								"size_format": "kg"
 							},
 							{
 								"id": "82610.4",
 								"name": "Merluza media pieza a rodajas",
 								"iva": 10,
-								"unit_size": 0.64,
-								"bulk_price": "9.95",
-								"unit_price": "6.37",
+								"unit_size": 0.7,
+								"bulk_price": "8.95",
+								"unit_price": "6.26",
 								"size_format": "kg"
 							},
 							{
 								"id": "82610.2",
 								"name": "Merluza abierta en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 1.23,
-								"bulk_price": "9.95",
-								"unit_price": "12.24",
+								"unit_size": 1.21,
+								"bulk_price": "8.95",
+								"unit_price": "10.83",
 								"size_format": "kg"
 							},
 							{
 								"id": "82610.5",
 								"name": "Merluza media pieza abierta en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.64,
-								"bulk_price": "9.95",
-								"unit_price": "6.37",
+								"unit_size": 0.7,
+								"bulk_price": "8.95",
+								"unit_price": "6.26",
 								"size_format": "kg"
 							},
 							{
 								"id": "82610.3",
 								"name": "Merluza sin aletas y sin escamas",
 								"iva": 10,
-								"unit_size": 1.23,
-								"bulk_price": "9.95",
-								"unit_price": "12.24",
+								"unit_size": 1.21,
+								"bulk_price": "8.95",
+								"unit_price": "10.83",
 								"size_format": "kg"
 							},
 							{
 								"id": "82610.6",
 								"name": "Merluza media pieza sin aletas y sin escamas",
 								"iva": 10,
-								"unit_size": 0.64,
-								"bulk_price": "9.95",
-								"unit_price": "6.37",
+								"unit_size": 0.7,
+								"bulk_price": "8.95",
+								"unit_price": "6.26",
 								"size_format": "kg"
 							},
 							{
@@ -41290,36 +41281,36 @@
 								"id": "81204.1",
 								"name": "Bacalao a rodajas",
 								"iva": 10,
-								"unit_size": 2.08,
+								"unit_size": 1.92,
 								"bulk_price": "8.95",
-								"unit_price": "18.62",
+								"unit_price": "17.18",
 								"size_format": "kg"
 							},
 							{
 								"id": "81204.3",
 								"name": "Bacalao media pieza a rodajas",
 								"iva": 10,
-								"unit_size": 1.34,
+								"unit_size": 1.18,
 								"bulk_price": "8.95",
-								"unit_price": "11.99",
+								"unit_price": "10.56",
 								"size_format": "kg"
 							},
 							{
 								"id": "81204.2",
 								"name": "Bacalao abierto en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 2.08,
+								"unit_size": 1.92,
 								"bulk_price": "8.95",
-								"unit_price": "18.62",
+								"unit_price": "17.18",
 								"size_format": "kg"
 							},
 							{
 								"id": "81204.4",
 								"name": "Bacalao media pieza abierto en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 1.34,
+								"unit_size": 1.18,
 								"bulk_price": "8.95",
-								"unit_price": "11.99",
+								"unit_price": "10.56",
 								"size_format": "kg"
 							},
 							{
@@ -41373,36 +41364,36 @@
 								"id": "81220.2",
 								"name": "Rape a rodajas",
 								"iva": 10,
-								"unit_size": 0.96,
+								"unit_size": 1.86,
 								"bulk_price": "10.90",
-								"unit_price": "10.46",
+								"unit_price": "20.27",
 								"size_format": "kg"
 							},
 							{
 								"id": "81220.3",
 								"name": "Rape abierto en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.96,
+								"unit_size": 1.86,
 								"bulk_price": "10.90",
-								"unit_price": "10.46",
+								"unit_price": "20.27",
 								"size_format": "kg"
 							},
 							{
 								"id": "81220.1",
 								"name": "Rape sin piel y sin cabeza",
 								"iva": 10,
-								"unit_size": 0.96,
+								"unit_size": 1.86,
 								"bulk_price": "10.90",
-								"unit_price": "10.46",
+								"unit_price": "20.27",
 								"size_format": "kg"
 							},
 							{
 								"id": "81220.4",
 								"name": "Rape sin aletas y sin dientes",
 								"iva": 10,
-								"unit_size": 0.96,
+								"unit_size": 1.86,
 								"bulk_price": "10.90",
-								"unit_price": "10.46",
+								"unit_price": "20.27",
 								"size_format": "kg"
 							}
 						]
@@ -41415,9 +41406,9 @@
 								"id": "81704",
 								"name": "Sepia",
 								"iva": 10,
-								"unit_size": 0.8,
+								"unit_size": 0.83,
 								"bulk_price": "13.95",
-								"unit_price": "11.16",
+								"unit_price": "11.58",
 								"size_format": "kg"
 							},
 							{
@@ -41446,15 +41437,6 @@
 								"bulk_price": "39.80",
 								"unit_price": "9.95",
 								"size_format": "kg"
-							},
-							{
-								"id": "82850",
-								"name": "Pulpo cocido",
-								"iva": 10,
-								"unit_size": 0.236,
-								"bulk_price": "25.50",
-								"unit_price": "6.02",
-								"size_format": "kg"
 							}
 						]
 					},
@@ -41466,27 +41448,27 @@
 								"id": "81200.1",
 								"name": "Trucha abierta en libro con cabeza",
 								"iva": 10,
-								"unit_size": 0.84,
+								"unit_size": 0.89,
 								"bulk_price": "8.95",
-								"unit_price": "7.52",
+								"unit_price": "7.97",
 								"size_format": "kg"
 							},
 							{
 								"id": "81200.2",
 								"name": "Trucha abierta en libro sin cabeza y sin espina",
 								"iva": 10,
-								"unit_size": 0.84,
+								"unit_size": 0.89,
 								"bulk_price": "8.95",
-								"unit_price": "7.52",
+								"unit_price": "7.97",
 								"size_format": "kg"
 							},
 							{
 								"id": "81200.3",
 								"name": "Trucha sin aletas",
 								"iva": 10,
-								"unit_size": 0.84,
+								"unit_size": 0.89,
 								"bulk_price": "8.95",
-								"unit_price": "7.52",
+								"unit_price": "7.97",
 								"size_format": "kg"
 							},
 							{
@@ -41556,27 +41538,27 @@
 								"id": "81226.3",
 								"name": "Rodaballo con piel, sin aletas y sin agallas",
 								"iva": 10,
-								"unit_size": 1.3,
+								"unit_size": 1.37,
 								"bulk_price": "13.50",
-								"unit_price": "17.55",
+								"unit_price": "18.50",
 								"size_format": "kg"
 							},
 							{
 								"id": "81226.1",
 								"name": "Rodaballo a filetes",
 								"iva": 10,
-								"unit_size": 1.3,
+								"unit_size": 1.37,
 								"bulk_price": "13.50",
-								"unit_price": "17.55",
+								"unit_price": "18.50",
 								"size_format": "kg"
 							},
 							{
 								"id": "81226.2",
 								"name": "Rodaballo a filetes y sin piel",
 								"iva": 10,
-								"unit_size": 1.3,
+								"unit_size": 1.37,
 								"bulk_price": "13.50",
-								"unit_price": "17.55",
+								"unit_price": "18.50",
 								"size_format": "kg"
 							}
 						]
@@ -41613,45 +41595,45 @@
 								"id": "83692.1",
 								"name": "Caballa Verdel sin tripa",
 								"iva": 10,
-								"unit_size": 0.41,
+								"unit_size": 0.36,
 								"bulk_price": "3.95",
-								"unit_price": "1.62",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							},
 							{
 								"id": "83692.2",
 								"name": "Caballa Verdel sin cabeza y sin tripa",
 								"iva": 10,
-								"unit_size": 0.41,
+								"unit_size": 0.36,
 								"bulk_price": "3.95",
-								"unit_price": "1.62",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							},
 							{
 								"id": "83692.3",
 								"name": "Caballa Verdel a rodajas sin cabeza y sin tripa",
 								"iva": 10,
-								"unit_size": 0.41,
+								"unit_size": 0.36,
 								"bulk_price": "3.95",
-								"unit_price": "1.62",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							},
 							{
 								"id": "83692.4",
 								"name": "Caballa Verdel a filetes sin cabeza y sin tripa",
 								"iva": 10,
-								"unit_size": 0.41,
+								"unit_size": 0.36,
 								"bulk_price": "3.95",
-								"unit_price": "1.62",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							},
 							{
 								"id": "83692.5",
 								"name": "Caballa Verdel abierta a la espalda con espinas y con cabeza",
 								"iva": 10,
-								"unit_size": 0.41,
+								"unit_size": 0.36,
 								"bulk_price": "3.95",
-								"unit_price": "1.62",
+								"unit_price": "1.42",
 								"size_format": "kg"
 							}
 						]
@@ -41769,6 +41751,15 @@
 								"unit_size": 0.08,
 								"bulk_price": "20.00",
 								"unit_price": "1.60",
+								"size_format": "kg"
+							},
+							{
+								"id": "83965",
+								"name": "Migas de bacalao desaladas Hacendado",
+								"iva": 10,
+								"unit_size": 0.3,
+								"bulk_price": "21.83",
+								"unit_price": "6.55",
 								"size_format": "kg"
 							},
 							{
@@ -43062,24 +43053,6 @@
 								"size_format": "kg"
 							},
 							{
-								"id": "84072",
-								"name": "Mona de Pascua bañada de chocolate con huevo sorpresa",
-								"iva": 10,
-								"unit_size": 0.15,
-								"bulk_price": "14.67",
-								"unit_price": "2.20",
-								"size_format": "kg"
-							},
-							{
-								"id": "84149",
-								"name": "Mona de Pascua con huevo sorpresa",
-								"iva": 10,
-								"unit_size": 0.12,
-								"bulk_price": "16.67",
-								"unit_price": "2.00",
-								"size_format": "kg"
-							},
-							{
 								"id": "80118",
 								"name": "Mona de Pascua con huevo cocido",
 								"iva": 10,
@@ -43909,8 +43882,8 @@
 								"name": "Chocolate negro 70% cacao fundir Hacendado 0% azúcares añadidos",
 								"iva": 10,
 								"unit_size": 0.2,
-								"bulk_price": "11.25",
-								"unit_price": "2.25",
+								"bulk_price": "12.00",
+								"unit_price": "2.40",
 								"size_format": "kg"
 							},
 							{
@@ -44634,15 +44607,6 @@
 								"unit_size": 0.68,
 								"bulk_price": "2.50",
 								"unit_price": "1.70",
-								"size_format": "kg"
-							},
-							{
-								"id": "83420",
-								"name": "Pan especial para torrijas con canela y limón",
-								"iva": 10,
-								"unit_size": 0.5,
-								"bulk_price": "2.40",
-								"unit_price": "1.20",
 								"size_format": "kg"
 							},
 							{
@@ -45521,6 +45485,15 @@
 							{
 								"id": "6487",
 								"name": "Tarta infantil Tesia and Friends Hacendado congelada",
+								"iva": 10,
+								"unit_size": 1.4,
+								"bulk_price": "9.86",
+								"unit_price": "13.80",
+								"size_format": "kg"
+							},
+							{
+								"id": "6082",
+								"name": "Tarta infantil DC Comics Hacendado congelada",
 								"iva": 10,
 								"unit_size": 1.4,
 								"bulk_price": "9.86",
@@ -46513,8 +46486,8 @@
 								"name": "Pasta oriental sabor pollo Maggi",
 								"iva": 10,
 								"unit_size": 0.071,
-								"bulk_price": "12.68",
-								"unit_price": "0.90",
+								"bulk_price": "10.56",
+								"unit_price": "0.75",
 								"size_format": "kg"
 							},
 							{
@@ -48613,8 +48586,8 @@
 								"name": "Postre lácteo infantil de fresa Yogolino +8 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "7.38",
+								"unit_price": "2.95",
 								"size_format": "kg"
 							},
 							{
@@ -48622,8 +48595,8 @@
 								"name": "Postre lácteo infantil de plátano Yogolino +6 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "7.38",
+								"unit_price": "2.95",
 								"size_format": "kg"
 							},
 							{
@@ -48631,8 +48604,8 @@
 								"name": "Postre lácteo infantil de natillas Yogolino +6 meses",
 								"iva": 10,
 								"unit_size": 0.4,
-								"bulk_price": "6.25",
-								"unit_price": "2.50",
+								"bulk_price": "8.38",
+								"unit_price": "3.35",
 								"size_format": "kg"
 							},
 							{
@@ -48721,8 +48694,8 @@
 								"name": "Fruta + leche tropical Bifrutas",
 								"iva": 21,
 								"unit_size": 1.2,
-								"bulk_price": "1.99",
-								"unit_price": "2.39",
+								"bulk_price": "1.79",
+								"unit_price": "2.15",
 								"size_format": "l"
 							},
 							{
@@ -48739,8 +48712,8 @@
 								"name": "Fruta + leche Caribe Don Simón sin azúcares añadidos y zero materia grasa",
 								"iva": 21,
 								"unit_size": 1.2,
-								"bulk_price": "1.46",
-								"unit_price": "1.75",
+								"bulk_price": "1.24",
+								"unit_price": "1.49",
 								"size_format": "l"
 							},
 							{
